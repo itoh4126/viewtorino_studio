@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+$color-bg:   #000;
+$color-text: #fff;
+$color-main: #B0DA39;
+$color-sub:  #52646f;
+
+.u-cf::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+@mixin m-cf {
+	&::after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+}
+
+@mixin m-link {
+	transition: all 0.6s;
+	&:hover {
+		opacity: .5;
+	}
+}
+
+@mixin m-border {
+	position: relative;
+	&:before {
+		background-color: currentColor;
+		content: '';
+		display: inline-block;
+		position: absolute;
+		bottom: 0;
+		height: 1px;
+		width: 100%;
+		transform: scaleX(0);
+		transform-origin: right;
+		transition: transform .6s cubic-bezier(.55, 0, .1, 1);
+	}
+	&:hover:before {
+		transform: scaleX(1);
+		transform-origin: left;
+		transition: transform .6s cubic-bezier(.55, 0, .1, 1);
+	}
+}

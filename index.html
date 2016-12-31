@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<article class="post-archive">
+
+  {% for post in site.posts %}
+  <section class="archive-content">
+    <a href="{{ post.url }}">
+      <h1 class="archive-content-header">
+        {{ post.title }}
+      </h1>
+      <p class="archive-content-date">
+        {{ post.date | date: "%Y年%m月%d日" }}
+      </p>
+    </a>
+    </section>
+  {% endfor %}
+
+</article>

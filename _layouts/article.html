@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang={{ site.language }}>
+  {% include head.html %}
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-wrapper">
+
+      <video id="mv" poster="/images/mv.png" autoplay="play" preload="auto" loop="loop">
+        <source src="/images/mv.mp4" type="video/mp4">
+      </video>
+
+      <div class="mv-mask"></div>
+
+      <main class="main container-fluid" role="main">
+
+        <section class="post-content">
+
+          <p class="post-content-date">
+            {{ page.date | date: "%B %d, %Y" }}
+          </p>
+
+          <h1 class="post-content-ttl">
+            {{ page.title }}
+          </h1>
+
+          <div class="post-content-rec content-item">
+            <audio
+                class="mejs-player"
+                width="100%"
+                data-mejsoptions='{"alwaysShowControls": true, "alwaysShowHours": true, "enableAutosize": true, "features": ["playpause", "progress", "current", "duration", "volume"]}'
+                preload="auto"
+                src="{{ page.rec_file }}"
+            >
+            </audio>
+            <a class="rec-file" href="{{ page.rec_file }}">Download</a>
+          </div>
+
+          <div class="post-content-description content-item">
+            {{ page.description }}
+          </div>
+
+          <h2 class="post-content-header">Cast</h2>
+          <div class="post-content-voices content-item">
+            <ul class="voices-list">
+              {% for voice_id in page.voice_ids %}
+              {% assign voice = site.voices[voice_id] %}
+              <li class="voices-list-item">
+                <span class="voices-item-name">
+                  {{ voice.name }}
+                </span>
+                <a class="voices-item-url" href="{{ voice.url }}" target="_blank">
+                  [{{ voice.url }}]
+                </a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+
+          <h2 class="post-content-header">Link</h2>
+          <div class="post-content-link content-item">
+          </div>
+
+
+
+        </section>
+
+      </main>
+
+    </div><!-- page-wrapper end -->
+
+    {% include footer.html %}
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/2.23.4/mediaelement-and-player.js"></script>
+
+  </body>
+
+</html>
