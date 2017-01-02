@@ -3,7 +3,8 @@
 $color-bg:   #000;
 $color-text: #fff;
 $color-main: #B0DA39;
-$color-sub:  #52646f;
+$color-sub:  #797772;
+
 
 .u-cf::after {
 	content: "";
@@ -20,7 +21,7 @@ $color-sub:  #52646f;
 }
 
 @mixin m-link {
-	transition: all 0.6s;
+	transition: opacity 0.6s;
 	&:hover {
 		opacity: .5;
 	}

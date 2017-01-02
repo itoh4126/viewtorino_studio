@@ -18,8 +18,9 @@ title: vt-studio
 description: viewtorino PodCast
 email: admin@viewtorino.com
 hashtag: viewtorino
-keywords: britpop,recording,rock,dtm,software,gadget
-url: ""
+keywords: britpop,recording,rock,dtm,software,gadget,music
+url: https://viewtorino.studio
+itunes_podcast_url: https://itunes.apple.com/jp/podcast/
 
 voices:
   ogata:
@@ -46,7 +47,3 @@ permalink: /ep/:title
 sass:
   sass_dir: css
   timezone: Asia/Tokyo
-
-# PodCast settings
-# itunes_podcast_url: https://itunes.apple.com/jp/podcast/
-# android_podcast_subscription_url: http://subscribeonandroid.com/viewtorino.studio/feed.xml

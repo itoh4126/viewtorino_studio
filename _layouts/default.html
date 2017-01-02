@@ -7,13 +7,17 @@
 
     <div class="page-wrapper">
 
-      <video id="mv" poster="/images/mv.png" autoplay="play" preload="auto" loop="loop">
-        <source src="/images/mv.mp4" type="video/mp4">
-      </video>
+      <script type="text/javascript">
+      if ( navigator.userAgent.indexOf('iPhone') > 0 || navigator.userAgent.indexOf('iPad') > 0 || navigator.userAgent.indexOf('iPod') > 0 || navigator.userAgent.indexOf('Android') > 0) {
+        document.write('');
+      }else {
+        document.write('<video id="mv" poster="/images/mv.png" autoplay="play" preload="auto" loop="loop"><source src="/images/mv.mp4" type="video/mp4"></video>');
+        document.write('<div class="mv-mask"></div>');
+      }
+      </script>
 
-      <div class="mv-mask"></div>
 
-      <main class="main container-fluid" role="main">
+      <main class="top container-fluid" role="main">
         {{ content }}
       </main>
 

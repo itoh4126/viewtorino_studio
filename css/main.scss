@@ -57,6 +57,7 @@ body {
 	.header-logo .header-logo-vt {
 		display: inline-block;
 		font-size: 4.0rem;
+		font-weight: 700;
 		letter-spacing: .05rem;
 		line-height: 1;
 		@include m-border;
@@ -71,7 +72,8 @@ body {
 	}
 	.header-nav-content-item {
 		display: inline-block;
-		font-size: 	    2.2rem;
+		font-size: 2.2rem;
+		font-weight: 700;
 		letter-spacing: 0.05rem;
 		line-height:    2.2rem;
 		margin-left:    2.0rem;
@@ -94,7 +96,7 @@ body {
 
 .mv-mask {
 	// background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(8, 8, 15, 1) 100%);
-	background: linear-gradient(to bottom, rgba(0, 0, 0, .5) 0%, rgba(0, 0, 0, .75) 50%, rgba(0, 0, 0, 1) 100%);
+	background: linear-gradient(to bottom, rgba(0, 0, 0, .3) 0%, rgba(0, 0, 0, .6) 50%, rgba(0, 0, 0, 1) 100%);
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -106,9 +108,12 @@ body {
 // ------------------------------------------------
 // top
 // ------------------------------------------------
-.main {
-	margin-top: 15vw;
+.top {
+	margin-top: 10vw;
 	margin-bottom: 15vh;
+}
+.main {
+	margin-top: 10vw;
 }
 .main-container {
 	width: 100%;
@@ -118,29 +123,28 @@ body {
 // ------------------------------------------------
 // post-archive
 // ------------------------------------------------
-.post-archive .archive-content {
-	border-bottom: 1px solid $color-text;
-	margin: 3.5rem 0.5rem;
-	padding-bottom: 3rem;
-	&:last-child {
-		margin: 3.5rem 0;
-		border-bottom: none;
-	}
+.post .post-content {
+	// padding-bottom: 3rem;
 }
 
-	.archive-content a {
+	.post-content a {
+		border-radius: 5px;
 		display: block;
-		@include m-link;
+		padding: 2rem 3rem;
+		transition: background 0.6s;
+		&:hover {
+			background: rgba(255, 255, 255, .1);
+		}
 	}
 
-	.archive-content .archive-content-header {
+	.post-content .post-content-header {
 			font-weight: 500;
-			font-size: 2.4rem;
-			line-height: 2.4rem;
-			margin-bottom: 5px;
+			font-size: 2.8rem;
+			line-height: 4.2rem;
 			vertical-align: middle;
 		}
-	.archive-content .archive-content-date {
+	.post-content .post-content-date {
+		@include m-font-s;
 		color: $color-sub;
 	}
 
@@ -148,44 +152,110 @@ body {
 // ------------------------------------------------
 // post-article
 // ------------------------------------------------
-.post-content {}
+.article-content {
+	padding: 2rem 3rem 3rem;;
+}
 
-	.post-content .post-content-date {
+	.article-content .article-content-date {
+		@include m-font-s;
 		color: $color-sub;
+		margin: 0 0 60px;
 	}
 
-	.post-content .post-content-ttl {
-		font-size: 2.4rem;
-		margin: 0 0 50px;
+	.article-content .article-content-ttl {
+		font-size: 2.8rem;
+		font-weight: 500;
 	}
 
-	.post-content .post-content-rec {
+	.article-content .article-content-rec {
 
 		.mejs-player {
 			margin-bottom: 10px;
+
+			.mejs-controls .mejs-time-rail .mejs-time-loaded {
+				background: #b76e2d;
+				background: rgba(183, 110, 45, .8);
+				background: -webkit-gradient(linear,0 0,0 100%,from(rgba(105, 60, 24, 0.8)),to(rgba(183, 110, 45, .8)));
+				background: -webkit-linear-gradient(top,rgba(105, 60, 24, .8),rgba(183, 110, 45, .8));
+				background: -moz-linear-gradient(top,rgba(105, 60, 24,.8),rgba(183, 110, 45,.8));
+				background: -o-linear-gradient(top,rgba(105, 60, 24,.8),rgba(183, 110, 45,.8));
+				background: -ms-linear-gradient(top,rgba(105, 60, 24,.8),rgba(183, 110, 45,.8));
+				background: linear-gradient(rgba(105, 60, 24, 0.8),rgba(183, 110, 45, .8));
+			}
 		}
 		.rec-file {
 			display: inline-block;
 			float: right;
 			@include m-link;
+			@include m-font-s;
+		}
+		.rec-file:before {
+			content: "\f019";
+			font-family: FontAwesome;
+			padding-right: 5px;
 		}
 		@include m-cf;
 	}
 
-	.post-content-voices .voices-list {
+	.article-content-voices .voices-list {
 		list-style: none;
-	}
-	.post-content-voices .voices-list {
+
+		.voices-list-item {
+			margin-bottom: 1rem;
+		}
 
 		.voices-item-name {
 			font-size: 1.6rem;
+			&:before {
+				content: "\f007";
+				font-family: FontAwesome;
+			}
 		}
 		.voices-item-url {
 			@include m-link;
+			&:before {
+				content: "\f0da";
+				font-family: FontAwesome;
+			}
 		}
 	}
 
-	.post-content-header {
+	.article-content-link {
+		line-height: 3.2rem;
+
+		a {
+			@include m-link;
+			text-decoration: underline;
+		}
+
+		ul, ol {
+			padding-left: 2rem;
+		}
+	}
+
+	.article-content-back {
+		text-align: center;
+	}
+		.article-content-back a {
+			@include m-font-s;
+			background: rgba(255, 255, 255, .5);
+			color: #000;
+			display: inline-block;
+			font-weight: 500;
+			padding: 2px 10px;
+			transition: background 0.6s;
+			&:hover {
+				background: rgba(255, 255, 255, 1);
+			}
+		}
+		.article-content-back a:before {
+			content: "\f101";
+			font-family: FontAwesome;
+		}
+
+	.article-content-header {
+		font-weight: 600;
+		font-size: 2.4rem;
 		margin-bottom: 5px;
 	}
 	.content-item {
@@ -193,6 +263,13 @@ body {
 	}
 
 
+// ------------------------------------------------
+// contact
+// ------------------------------------------------
+.contact-content a {
+	@include m-link;
+	text-decoration: underline;
+}
 
 // ------------------------------------------------
 // footer
@@ -203,15 +280,58 @@ body {
 	padding-top: 20px;
 }
 
-	.footer-share {}
 	.footer-feed {
 		margin: 0 0 42px;
+		text-align: right;
 	}
 	.footer-feed .feed-list {
 		list-style: none;
 	}
+	.feed-list .feed-list-item {
+		display: inline-block;
+		font-size: 	    2.2rem;
+		font-weight: 700;
+		letter-spacing: 0.05rem;
+		line-height:    2.2rem;
+		margin-left:    2.0rem;
+		@include m-border;
+
+	}
+
+	.footer-share {
+		text-align: center;
+		margin-bottom: 6rem;
+		font-weight: 300;
+		font-size: 1.2rem;
+	}
+	.footer-share a {
+		border: 1px solid rgba(255, 255, 255, .5);
+		border-radius: 5px;
+		display: inline-block;
+		padding: 1rem 2rem;
+		transition: background 0.6s;
+		&:hover {
+			background: #00aced;
+		}
+	}
+	.footer-share a:before {
+		content: "\f099";
+		font-family: FontAwesome;
+	}
 
 	.footer-cp {
-		display: block;
 		text-align: center;
+	}
+	.footer-cp a {
+		padding: 0.5rem 1rem;
+		display: inline-block;
+		transition: opacity 0.6s;
+		&:hover {
+			opacity: .5;
+		}
+		&:before {
+			content: "\f1f9";
+			font-family: FontAwesome;
+			margin-right: 0.5rem;
+		}
 	}

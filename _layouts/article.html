@@ -15,17 +15,17 @@
 
       <main class="main container-fluid" role="main">
 
-        <section class="post-content">
+        <article class="article-content">
 
-          <p class="post-content-date">
-            {{ page.date | date: "%B %d, %Y" }}
-          </p>
-
-          <h1 class="post-content-ttl">
+          <h1 class="article-content-ttl">
             {{ page.title }}
           </h1>
 
-          <div class="post-content-rec content-item">
+          <p class="article-content-date">
+            {{ page.date | date: "%B %d, %Y" }}
+          </p>
+
+          <div class="article-content-rec content-item">
             <audio
                 class="mejs-player"
                 width="100%"
@@ -37,12 +37,12 @@
             <a class="rec-file" href="{{ page.rec_file }}">Download</a>
           </div>
 
-          <div class="post-content-description content-item">
+          <div class="article-content-description content-item">
             {{ page.description }}
           </div>
 
-          <h2 class="post-content-header">Cast</h2>
-          <div class="post-content-voices content-item">
+          <h2 class="article-content-header">出演</h2>
+          <div class="article-content-voices content-item">
             <ul class="voices-list">
               {% for voice_id in page.voice_ids %}
               {% assign voice = site.voices[voice_id] %}
@@ -50,21 +50,28 @@
                 <span class="voices-item-name">
                   {{ voice.name }}
                 </span>
+                <br>
                 <a class="voices-item-url" href="{{ voice.url }}" target="_blank">
-                  [{{ voice.url }}]
+                  {{ voice.url }}
                 </a>
               </li>
               {% endfor %}
             </ul>
           </div>
 
-          <h2 class="post-content-header">Link</h2>
-          <div class="post-content-link content-item">
+          <h2 class="article-content-header">参照</h2>
+          <div class="article-content-link content-item">
+            {{ content }}
+          </div>
+
+          <div class="article-content-back">
+            <a href="/">
+              Back
+            </a>
           </div>
 
 
-
-        </section>
+        </article>
 
       </main>
 
@@ -74,6 +81,11 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/2.23.4/mediaelement-and-player.js"></script>
+    <script language="JavaScript">
+    $(document).ready( function () {
+      $(".article-content-link a").attr('target', '_blank');
+    })
+    </script>
 
   </body>
 

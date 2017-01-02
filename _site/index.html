@@ -5,8 +5,8 @@
   <title>vt-studio</title>
   <meta name="viewport" content="width=device-width">
   <link rel="alternate" type="application/rss+xml" href="http://localhost:4000/feed.xml" />
-  <!-- <link href="https://fonts.googleapis.com/css?family=Squada+One" rel="stylesheet"> -->
-  <link href="https://fonts.googleapis.com/css?family=Rajdhani" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Rajdhani:400,500,600,700" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/2.23.4/mediaelementplayer.min.css">
 </head>
@@ -24,8 +24,8 @@
 </div> -->
   <nav class="header-nav column">
     <ul class="header-nav-content u-font-s">
-      <li class="header-nav-content-item"><a href="about">about</a></li>
-      <li class="header-nav-content-item"><a href="contact">contact</a></li>
+      <li class="header-nav-content-item"><a href="/about">about</a></li>
+      <li class="header-nav-content-item"><a href="/contact">contact</a></li>
     </ul>
   </nav>
 </header>
@@ -33,23 +33,27 @@
 
     <div class="page-wrapper">
 
-      <video id="mv" poster="/images/mv.png" autoplay="play" preload="auto" loop="loop">
-        <source src="/images/mv.mp4" type="video/mp4">
-      </video>
+      <script type="text/javascript">
+      if ( navigator.userAgent.indexOf('iPhone') > 0 || navigator.userAgent.indexOf('iPad') > 0 || navigator.userAgent.indexOf('iPod') > 0 || navigator.userAgent.indexOf('Android') > 0) {
+        document.write('');
+      }else {
+        document.write('<video id="mv" poster="/images/mv.png" autoplay="play" preload="auto" loop="loop"><source src="/images/mv.mp4" type="video/mp4"></video>');
+        document.write('<div class="mv-mask"></div>');
+      }
+      </script>
 
-      <div class="mv-mask"></div>
 
-      <main class="main container-fluid" role="main">
-        <article class="post-archive">
+      <main class="top container-fluid" role="main">
+        <article class="post">
 
   
-  <section class="archive-content">
-    <a href="/ep/welcome-to-jekyll">
-      <h1 class="archive-content-header">
-        episode 0. ダミータイトル
+  <section class="post-content">
+    <a href="/ep/0">
+      <h1 class="post-content-header">
+        第0.5話 「2016年総括など雑多な話」
       </h1>
-      <p class="archive-content-date">
-        2016年12月30日
+      <p class="post-content-date">
+        December 28, 2016
       </p>
     </a>
     </section>
@@ -63,14 +67,8 @@
 
     <footer class="footer container-fluid">
 
-  <div class="footer-share">
-    <a class="twitter-share-button" href="https://twitter.com/intent/tweet?hashtags=viewtorino&url=http://localhost:4000">
-      Tweet
-    </a>
-  </div>
-
   <div class="footer-feed">
-    <ul class="feed-list">
+    <ul class="feed-list u-font-s">
       <li class="feed-list-item">
         <a href="" target="_blank">Podcast</a>
       </li>
@@ -80,8 +78,15 @@
     </ul>
   </div>
 
+  <div class="footer-share">
+    <a href="https://twitter.com/intent/tweet?hashtags=viewtorino&url=http://localhost:4000/&text=" target="_blank">
+      ご意見・ご感想は Twitter の #viewtorino までお願いいたします。
+    </a>
+  </div>
+
+
   <div class="footer-cp">
-    © 2016 <a href="http://viewtorino.com" target="_blank">viewtorino</a>
+    <a href="http://viewtorino.com" target="_blank">2016 viewtorino</a>
   </div>
 
 </footer>

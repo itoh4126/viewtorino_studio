@@ -40,7 +40,10 @@ $font-main: "-apple-system", "Helvetica Neue", Hiragino Sans, "Hiragino Kaku Got
 
 .u-font-s {
   font-family: 'Rajdhani', sans-serif;
-	// font-family: 'Squada One', cursive;
+	text-transform: uppercase;
+}
+@mixin m-font-s {
+  font-family: 'Rajdhani', sans-serif;
 	text-transform: uppercase;
 }
 
