@@ -19,7 +19,7 @@
       <itunes:name>{{ site.author }}</itunes:name>
       <itunes:email>{{ site.email }}</itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ site.url }}/images/artwork.jpg" />
+    <itunes:image href="{{ site.url }}/images/artwork1.jpg" />
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
 
