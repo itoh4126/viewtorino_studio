@@ -1,11 +1,11 @@
 ---
 layout: article
-title: 第0.5話 「2016年総括など雑多な話」
+title: 第0.5話 「2016年を振り返って、雑多な話」
 date: 2016-12-28 11:30:00 +0900
 voice_ids:
   - itoh
   - ogata
-description: Kensei Ogata Band レコーディング進捗・使用機材、Macbook、AirPods、2016年良かった作品などについて話しました。
+description: Kensei Ogata Band レコーディング進捗・使用機材、Macbook Pro、AirPods、2016年良かった作品などについて話しました。
 duration: "00:00"
 rec_file: /rec/20161228.mp3
 rec_size: 27322874

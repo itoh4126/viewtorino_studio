@@ -5,63 +5,34 @@
     <link>http://localhost:4000</link>
     <title>vt-studio</title>
     <description>viewtorino PodCast</description>
-    <media:keywords>britpop,recording,rock,dtm,software,gadget</media:keywords>
+    <media:keywords>britpop,recording,rock,dtm,software,gadget,music</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Music</media:category>
     <language>ja</language>
     <itunes:subtitle>viewtorino PodCast</itunes:subtitle>
     <itunes:author>viewtorino</itunes:author>
     <itunes:summary>viewtorino PodCast</itunes:summary>
-    <itunes:keywords>britpop,recording,rock,dtm,software,gadget</itunes:keywords>
+    <itunes:keywords>britpop,recording,rock,dtm,software,gadget,music</itunes:keywords>
     <itunes:owner>
       <itunes:name>viewtorino</itunes:name>
       <itunes:email>admin@viewtorino.com</itunes:email>
     </itunes:owner>
     <itunes:image href="http://localhost:4000/images/artwork.jpg" />
-    <itunes:category text="Technology"/>
+    <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
 
     
       <item>
-        <title>第0.5話 「2016年総括など雑多な話」</title>
+        <title>第0.5話 「2016年を振り返って、雑多な話」</title>
         <link>http://localhost:4000/ep/0</link>
         <pubDate>Wed, 28 Dec 2016 11:30:00 +0900</pubDate>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://info.shimamura.co.jp/digital/special/2016/05/30126&quot;&gt;リアンプとは？ - Digiland (デジランド) 島村楽器のデジタルガジェット情報発信サイト&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.marshallamps.jp/products/amplifiers/astoria-series/astoria-classic/&quot;&gt;Marshall - Astoria Classic&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5Pwq-MqmNrY&quot;&gt;Rickenbacker 660 12弦&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/CuddlyDominion/status/747073718023651330&quot;&gt;Kensei Ogataさんのツイート: “まつだ家の蔵にあったJC-77、サイズ感可愛いし音もJC-120より暴れなくて扱いやすい（Hi-Trebleってツマミがが可変ブライトスイッチみたいになってて良い）からあれをワールドスタンダードにしてくれって思った” &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=erwc9AOywB4&quot;&gt;Rickenbacker 620 FG を演奏している映像&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.kcmusic.jp/ehx/c9.html&quot;&gt;Electro-Harmonix - C9 Organ Machine&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.midnightamplification.com/product/derange-master&quot;&gt;Midnight Amplification Devices - Derange Master&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.analogman.com/beano.htm&quot;&gt;Analog Man - Beano Boost&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.mi7.co.jp/products/presonus/studioone/&quot;&gt;PreSonus - Studio One 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/kb/SP649?locale=ja_JP&amp;amp;viewlocale=ja_JP&quot;&gt;Apple - MacBook Pro (Mid 2012)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.apple.com/jp/airpods/&quot;&gt;Apple - AirPods&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://allaccess.co.jp/sansamp/liverpool/&quot;&gt;TECH21 - Liverpool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.flipflappers.com/&quot;&gt;TVアニメ「フリップフラッパーズ」公式サイト&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.keromakura.net/&quot;&gt;サクラノ詩 (枕 -makura web-)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.gungnir.co.jp/lily/index2.html&quot;&gt;FLOWERS - Gungnir&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.minori.ph/&quot;&gt;ef - a fairy tale of the two. - (minori)&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.ef-memo.com/&quot;&gt;TVアニメ『ef - a tale of memories.』オフィシャルページ&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://kidsaredead.bandcamp.com/&quot;&gt;KIDSAREDEAD&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lionlimb.bandcamp.com/&quot;&gt;Lionlimb&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.graham-alexander.net/&quot;&gt;Graham Alexander&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://realsound.jp/2016/12/post-10723.html&quot;&gt;UKロック好きアイドル・NMB48 薮下柊×クーラ・シェイカーの異色対談実現　互いの音楽観を語り合う (Real Sound)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+        <description>Kensei Ogata Band レコーディング進捗・使用機材、Macbook Pro、AirPods、2016年良かった作品などについて話しました。</description>
         <guid isPermaLink="true">http://localhost:4000/ep/0</guid>
         <enclosure url="http://localhost:4000/rec/20161228.mp3" length="27322874" type="audio/mp3"/>
         <itunes:author>viewtorino</itunes:author>
-        <itunes:subtitle>Kensei Ogata Band レコーディング進捗・使用機材、Macbook、AirPods、2016年良かった作品などについて話しました。</itunes:subtitle>
+        <itunes:subtitle>Kensei Ogata Band レコーディング進捗・使用機材、Macbook Pro、AirPods、2016年良かった作品などについて話しました。</itunes:subtitle>
         <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
-        <media:thumbnail url="http://localhost:4000/images/vt1.jpg"/>
+        <media:thumbnail url="http://localhost:4000/images/artwork.jpg"/>
       </item>
     
 

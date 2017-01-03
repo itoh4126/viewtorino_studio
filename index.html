@@ -1,20 +1,23 @@
 ---
 layout: default
 ---
+<main class="top container-fluid" role="main">
 
-<article class="post">
+  <article class="post">
 
-  {% for post in site.posts %}
-  <section class="post-content">
-    <a href="{{ post.url }}">
-      <h1 class="post-content-header">
-        {{ post.title }}
-      </h1>
-      <p class="post-content-date">
-        {{ post.date | date: "%B %d, %Y" }}
-      </p>
-    </a>
-    </section>
-  {% endfor %}
+    {% for post in site.posts %}
+    <section class="post-content">
+      <a href="{{ post.url }}">
+        <h1 class="post-content-header">
+          {{ post.title }}
+        </h1>
+        <p class="post-content-date">
+          {{ post.date | date: "%B %d, %Y" }}
+        </p>
+      </a>
+      </section>
+    {% endfor %}
 
-</article>
+  </article>
+
+</main>

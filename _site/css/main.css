@@ -439,7 +439,8 @@ body {
   clear: both; }
 
 .article-content-voices .voices-list {
-  list-style: none; }
+  list-style: none;
+  padding-left: 0.5rem; }
   .article-content-voices .voices-list .voices-list-item {
     margin-bottom: 1rem; }
   .article-content-voices .voices-list .voices-item-name {
