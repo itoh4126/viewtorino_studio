@@ -34,3 +34,10 @@ rec_size: 27322874
 - [Lionlimb](https://lionlimb.bandcamp.com/)
 - [Graham Alexander](http://www.graham-alexander.net/)
 - [UKロック好きアイドル・NMB48 薮下柊×クーラ・シェイカーの異色対談実現　互いの音楽観を語り合う (Real Sound)](http://realsound.jp/2016/12/post-10723.html)
+
+## 収録
+
+- Shure BETA 58A
+- Shure BETA 57A
+- RME Fireface 800
+- Steinberg Cubase
