@@ -221,16 +221,23 @@ body {
 		}
 	}
 
-	.article-content-link {
+	.article-content-md {
 		line-height: 3.2rem;
 
 		a {
 			@include m-link;
 			text-decoration: underline;
 		}
-
 		ul, ol {
 			padding-left: 2rem;
+		}
+		& > ul, & > ol {
+			margin-bottom: 40px;
+		}
+		h2 {
+			font-weight: 600;
+			font-size: 2.4rem;
+			margin-bottom: 5px;
 		}
 	}
 

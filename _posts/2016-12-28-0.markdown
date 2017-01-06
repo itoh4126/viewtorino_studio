@@ -11,6 +11,8 @@ rec_file: /rec/20161228.mp3
 rec_size: 27322874
 ---
 
+## 参照
+
 - [リアンプとは？ - Digiland (デジランド) 島村楽器のデジタルガジェット情報発信サイト](http://info.shimamura.co.jp/digital/special/2016/05/30126)
 - [Marshall - Astoria Classic](http://www.marshallamps.jp/products/amplifiers/astoria-series/astoria-classic/)
 - [Rickenbacker 660 12弦](https://www.youtube.com/watch?v=5Pwq-MqmNrY)
