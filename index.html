@@ -11,8 +11,11 @@ layout: default
         <h1 class="post-content-header">
           {{ post.title }}
         </h1>
-        <p class="post-content-date">
+        <div class="post-content-date">
           {{ post.date | date: "%B %d, %Y" }}
+        </div>
+        <p class="post-content-description">
+          {{ post.description }}
         </p>
       </a>
       </section>

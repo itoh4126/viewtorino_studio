@@ -124,13 +124,15 @@ body {
 // post-archive
 // ------------------------------------------------
 .post .post-content {
-	// padding-bottom: 3rem;
+	&:not(:last-child){
+		margin-bottom: 4rem;
+	}
 }
 
 	.post-content a {
 		border-radius: 5px;
 		display: block;
-		padding: 2rem 3rem;
+		padding: 2rem;
 		transition: background 0.6s;
 		&:hover {
 			background: rgba(255, 255, 255, .1);
@@ -138,14 +140,20 @@ body {
 	}
 
 	.post-content .post-content-header {
-			font-weight: 500;
 			font-size: 2.8rem;
-			line-height: 4.2rem;
+			font-weight: 500;
+			line-height: 3.2rem;
 			vertical-align: middle;
+			margin-bottom: 5px;
 		}
 	.post-content .post-content-date {
 		@include m-font-s;
 		color: $color-sub;
+		margin-bottom: 1rem;
+	}
+	.post-content .post-content-description {
+		font-size: 1.4rem;
+		line-height: 1.8rem;
 	}
 
 
@@ -153,18 +161,20 @@ body {
 // post-article
 // ------------------------------------------------
 .article-content {
-	padding: 2rem 3rem 3rem;;
+	padding: 2rem;
 }
+
+	.article-content .article-content-ttl {
+		font-size: 2.8rem;
+		font-weight: 500;
+		line-height: 3.2rem;
+		margin-bottom: 5px;
+	}
 
 	.article-content .article-content-date {
 		@include m-font-s;
 		color: $color-sub;
 		margin: 0 0 60px;
-	}
-
-	.article-content .article-content-ttl {
-		font-size: 2.8rem;
-		font-weight: 500;
 	}
 
 	.article-content .article-content-rec {
@@ -202,11 +212,12 @@ body {
 		padding-left: 0.5rem;
 
 		.voices-list-item {
-			margin-bottom: 1rem;
+			margin-bottom: 2rem;
 		}
 
 		.voices-item-name {
 			font-size: 1.6rem;
+
 			&:before {
 				content: "\f007";
 				font-family: FontAwesome;
@@ -223,6 +234,7 @@ body {
 
 	.article-content-md {
 		line-height: 3.2rem;
+		margin-bottom: 6rem;
 
 		a {
 			@include m-link;
@@ -238,6 +250,25 @@ body {
 			font-weight: 600;
 			font-size: 2.4rem;
 			margin-bottom: 5px;
+		}
+	}
+
+	.article-content-share {
+		text-align: center;
+		margin-bottom: 6rem;
+		font-weight: 300;
+		font-size: 1.2rem;
+	}
+	.article-content-share a {
+		@include m-btn-twitter;
+		border: 1px solid rgba(255, 255, 255, .5);
+		border-radius: 5px;
+		display: inline-block;
+		padding: 1rem 2rem;
+		transition: background 0.6s, border-color 0.6s;
+		&:hover {
+			border-color: darken( $color-twitter, 15% );
+			background: $color-twitter;
 		}
 	}
 
@@ -264,7 +295,7 @@ body {
 	.article-content-header {
 		font-weight: 600;
 		font-size: 2.4rem;
-		margin-bottom: 5px;
+		margin-bottom: 1rem;
 	}
 	.content-item {
 		margin-bottom: 56px;
@@ -284,55 +315,65 @@ body {
 // ------------------------------------------------
 .footer {
 	border-top: 1px solid $color-text;
-	font-weight: 500;
 	padding-top: 20px;
 }
 
 	.footer-feed {
 		margin: 0 0 42px;
-		text-align: right;
-	}
-	.footer-feed .feed-list {
-		list-style: none;
-	}
-	.feed-list .feed-list-item {
-		display: inline-block;
-		font-size: 	    2.2rem;
-		font-weight: 700;
-		letter-spacing: 0.05rem;
-		line-height:    2.2rem;
-		margin-left:    2.0rem;
-		@include m-border;
-
-	}
-
-	.footer-share {
 		text-align: center;
-		margin-bottom: 6rem;
-		font-weight: 300;
-		font-size: 1.2rem;
 	}
-	.footer-share a {
-		border: 1px solid rgba(255, 255, 255, .5);
-		border-radius: 5px;
-		display: inline-block;
-		padding: 1rem 2rem;
-		transition: background 0.6s;
-		&:hover {
-			background: #00aced;
+		.footer-feed .feed-list {
+			list-style: none;
 		}
-	}
-	.footer-share a:before {
-		content: "\f099";
-		font-family: FontAwesome;
-	}
+		.feed-list .feed-list-item {
+			display: inline-block;
+			margin: 10px;
+		}
+			.feed-list-item	a {
+				border-radius: 3px;
+				display: inline-block;
+				padding: 3px 7px;
+				font-weight: 300;
+				font-size: 1.2rem;
+				transition: background 0.6s, color 0.6s;
+				width: 100px;
+			}
+			.feed-list-item	.btn-twitter {
+				@include m-btn-twitter;
+				border: 1px solid $color-twitter;
+				color: $color-twitter;
+				&:hover {
+					background: $color-twitter;
+					color: #fff;
+				}
+			}
+			.feed-list-item	.btn-podcast {
+				@include m-btn-podcast;
+				border: 1px solid $color-podcast;
+				color: $color-podcast;
+				&:hover {
+					background: $color-podcast;
+					color: #fff;
+				}
+			}
+			.feed-list-item	.btn-rss {
+				@include m-btn-rss;
+				border: 1px solid $color-rss;
+				color: $color-rss;
+				&:hover {
+					background: $color-rss;
+					color: #fff;
+				}
+			}
 
 	.footer-cp {
 		text-align: center;
 	}
 	.footer-cp a {
+		font-weight: 500;
 		padding: 0.5rem 1rem;
 		display: inline-block;
+		text-transform: uppercase;
 		transition: opacity 0.6s;
 		&:hover {
 			opacity: .5;

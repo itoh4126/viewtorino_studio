@@ -1,22 +1,18 @@
 <footer class="footer container-fluid">
 
   <div class="footer-feed">
-    <ul class="feed-list u-font-s">
+    <ul class="feed-list">
       <li class="feed-list-item">
-        <a href="{{ site.itunes_podcast_url }}" target="_blank">Podcast</a>
+        <a class="btn-twitter" href="https://twitter.com/search?q=%23{{ site.hashtag }}" target="_blank">#viewtorino</a>
       </li>
       <li class="feed-list-item">
-        <a href="{{ site.url }}/feed.xml" target="_blank">RSS</a>
+        <a class="btn-podcast" href="{{ site.itunes_podcast_url }}" target="_blank">Podcast</a>
+      </li>
+      <li class="feed-list-item">
+        <a class="btn-rss" href="{{ site.url }}/feed.xml" target="_blank">RSS</a>
       </li>
     </ul>
   </div>
-
-  <div class="footer-share">
-    <a href="https://twitter.com/intent/tweet?hashtags={{ site.hashtag }}&url={{ site.url }}{{ page.url }}&text={{ page.title }}" target="_blank">
-      ご意見・ご感想は Twitter の #{{ site.hashtag }} までお願いいたします。
-    </a>
-  </div>
-
 
   <div class="footer-cp">
     <a href="http://viewtorino.com" target="_blank">2016 viewtorino</a>

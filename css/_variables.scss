@@ -4,6 +4,9 @@ $color-bg:   #000;
 $color-text: #fff;
 $color-main: #B0DA39;
 $color-sub:  #797772;
+$color-twitter:  #00aced;
+$color-podcast:  #ae4cdf;
+$color-rss:  #ff6600;
 
 
 .u-cf::after {
@@ -45,5 +48,29 @@ $color-sub:  #797772;
 		transform: scaleX(1);
 		transform-origin: left;
 		transition: transform .6s cubic-bezier(.55, 0, .1, 1);
+	}
+}
+
+@mixin m-btn-twitter {
+	&:before {
+		content: "\f099";
+		font-family: FontAwesome;
+		margin-right: 0.5rem;
+	}
+}
+
+@mixin m-btn-podcast {
+	&:before {
+		content: "\f2ce";
+		font-family: FontAwesome;
+		margin-right: 0.5rem;
+	}
+}
+
+@mixin m-btn-rss {
+	&:before {
+		content: "\f09e";
+		font-family: FontAwesome;
+		margin-right: 0.5rem;
 	}
 }

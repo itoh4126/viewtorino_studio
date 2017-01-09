@@ -66,6 +66,10 @@
             {{ content }}
           </div>
 
+          <div class="article-content-share">
+            <a href="https://twitter.com/intent/tweet?hashtags={{ site.hashtag }}&url={{ site.url }}{{ page.url }}&text={{ page.title }}" target="_blank">ご意見・ご感想は Twitter の #{{ site.hashtag }} までお願いいたします。</a>
+          </div>
+
           <div class="article-content-back">
             <a href="/">
               Back
@@ -77,7 +81,7 @@
 
       </main>
 
-    </div><!-- page-wrapper end -->
+    </div>
 
     {% include footer.html %}
 
