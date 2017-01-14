@@ -26,22 +26,26 @@ body {
 	-webkit-text-size-adjust: 100%;
 	word-break: break-all;
 	word-wrap: break-word;
+	@media #{$small} {
+		padding: 0 2rem;
+	}
 }
 
 .container-fluid {
 	width: 960px;
 	margin: auto;
 	@include m-cf;
+	@media #{$small} {
+		width: 100%;
+	}
 }
 .column {
 	float: left;
-}
-
-@media #{$small} {
-	.column {
+	@media #{$small} {
 		float: none;
 	}
 }
+
 
 // ------------------------------------------------
 // header
@@ -49,10 +53,18 @@ body {
 .header {
 	padding-top: 60px;
 	margin-bottom: 20px;
+	@media #{$small} {
+		padding-top: 3vh;
+		margin-bottom: 0;
+	}
 }
 
 	.header-logo {
 		width: 50%;
+		@media #{$small} {
+			width: 100%;
+			text-align: center;
+		}
 	}
 	.header-logo .header-logo-vt {
 		display: inline-block;
@@ -66,9 +78,16 @@ body {
 	.header-nav {
 		padding-top: 16px;
 		width: 50%;
+		@media #{$small} {
+			padding-top: 0;
+			width: 100%;
+		}
 	}
 	.header-nav-content {
 		text-align: right;
+		@media #{$small} {
+			padding: 2rem 0 0;
+		}
 	}
 	.header-nav-content-item {
 		display: inline-block;
@@ -78,8 +97,10 @@ body {
 		line-height:    2.2rem;
 		margin-left:    2.0rem;
 		@include m-border;
+		@media #{$small} {
+			display: block;
+		}
 	}
-
 
 
 // ------------------------------------------------
@@ -110,6 +131,11 @@ body {
 .top {
 	margin-top: 10vw;
 	margin-bottom: 15vh;
+	@media #{$small} {
+		margin-top: 4vh;
+		margin-bottom: 6vh;
+		min-height: 45vh;
+	}
 }
 .main {
 	margin-top: 10vw;
@@ -122,9 +148,17 @@ body {
 // ------------------------------------------------
 // post-archive
 // ------------------------------------------------
+.post {
+	@media #{$small} {
+		margin: 0 -2rem 0;
+	}
+}
 .post .post-content {
 	&:not(:last-child){
 		margin-bottom: 4rem;
+		@media #{$small} {
+			margin-bottom: 0;
+		}
 	}
 }
 
@@ -134,7 +168,7 @@ body {
 		padding: 2rem;
 		transition: background 0.6s;
 		&:hover {
-			background: rgba(255, 255, 255, .1);
+			background: rgba(150, 150, 150, .1);
 		}
 	}
 
@@ -144,6 +178,11 @@ body {
 			line-height: 3.2rem;
 			vertical-align: middle;
 			margin-bottom: 5px;
+			@media #{$small} {
+				font-size: 1.6rem;
+				line-height: 2.2rem;
+				margin-bottom: 0;
+			}
 		}
 	.post-content .post-content-date {
 		@include m-font-s;
@@ -153,6 +192,9 @@ body {
 	.post-content .post-content-description {
 		font-size: 1.4rem;
 		line-height: 1.8rem;
+		@media #{$small} {
+			font-size: 1.25rem;
+		}
 	}
 
 
@@ -161,6 +203,9 @@ body {
 // ------------------------------------------------
 .article-content {
 	padding: 2rem;
+	@media #{$small} {
+		padding: 0;
+	}
 }
 
 	.article-content .article-content-ttl {
@@ -168,6 +213,11 @@ body {
 		font-weight: 500;
 		line-height: 3.2rem;
 		margin-bottom: 5px;
+		@media #{$small} {
+			font-size: 1.6rem;
+			line-height: 2.2rem;
+			margin-bottom: 0;
+		}
 	}
 
 	.article-content .article-content-date {
@@ -206,6 +256,12 @@ body {
 		@include m-cf;
 	}
 
+	.article-content-description {
+		@media #{$small} {
+			font-size: 1.25rem;
+		}
+	}
+
 	.article-content-voices .voices-list {
 		list-style: none;
 		padding-left: 0.5rem;
@@ -216,6 +272,9 @@ body {
 
 		.voices-item-name {
 			font-size: 1.6rem;
+			@media #{$small} {
+				font-size: 1.4rem;
+			}
 
 			&:before {
 				content: "\f007";
@@ -234,6 +293,10 @@ body {
 	.article-content-md {
 		line-height: 3.2rem;
 		margin-bottom: 6rem;
+		@media #{$small} {
+			font-size: 1.25rem;
+			line-height: 2.2rem;
+		}
 
 		a {
 			@include m-link;
@@ -248,7 +311,12 @@ body {
 		h2 {
 			font-weight: 600;
 			font-size: 2.4rem;
-			margin-bottom: 5px;
+			margin-bottom: 1rem;
+			@media #{$small} {
+				font-size: 1.6rem;
+				line-height: 2.2rem;
+				margin-bottom: .8rem;
+			}
 		}
 	}
 
@@ -257,6 +325,9 @@ body {
 		margin-bottom: 6rem;
 		font-weight: 300;
 		font-size: 1.2rem;
+		@media #{$small} {
+			margin-bottom: 2rem;
+		}
 	}
 	.article-content-share a {
 		@include m-btn-twitter;
@@ -296,9 +367,17 @@ body {
 		font-weight: 600;
 		font-size: 2.4rem;
 		margin-bottom: 1rem;
+		@media #{$small} {
+			font-size: 1.6rem;
+			line-height: 2.2rem;
+			margin-bottom: .8rem;
+		}
 	}
 	.content-item {
 		margin-bottom: 56px;
+		@media #{$small} {
+			margin-bottom: 3rem;
+		}
 	}
 
 
@@ -309,6 +388,10 @@ body {
 
 	p {
 		margin-bottom: 1rem;
+		@media #{$small} {
+			font-size: 1.25rem;
+			line-height: 2.2rem;
+		}
 	}
 
 	a {
@@ -323,12 +406,18 @@ body {
 // ------------------------------------------------
 .footer {
 	border-top: 1px solid $color-text;
-	padding-top: 20px;
+	padding: 20px 0 0;
+	@media #{$small} {
+		padding: 2rem 0 0;
+	}
 }
 
 	.footer-feed {
 		margin: 0 0 42px;
 		text-align: center;
+		@media #{$small} {
+			margin: 0 0 1rem;
+		}
 	}
 		.footer-feed .feed-list {
 			list-style: none;
@@ -336,6 +425,9 @@ body {
 		.feed-list .feed-list-item {
 			display: inline-block;
 			margin: 10px;
+			@media #{$small} {
+				margin: 3px;
+			}
 		}
 			.feed-list-item	a {
 				border-radius: 3px;

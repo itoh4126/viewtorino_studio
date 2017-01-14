@@ -67,7 +67,13 @@
           </div>
 
           <div class="article-content-share">
-            <a href="https://twitter.com/intent/tweet?hashtags={{ site.hashtag }}&url={{ site.url }}{{ page.url }}&text={{ page.title }}" target="_blank">ご意見・ご感想は Twitter の #{{ site.hashtag }} までお願いいたします。</a>
+            <script type="text/javascript">
+            if ( navigator.userAgent.indexOf('iPhone') > 0 || navigator.userAgent.indexOf('iPod') > 0 || navigator.userAgent.indexOf('Android') > 0) {
+              document.write('<a href="https://twitter.com/intent/tweet?hashtags={{ site.hashtag }}&url={{ site.url }}{{ page.url }}" target="_blank">ご意見・ご感想は #{{ site.hashtag }} まで<br>お願いいたします。</a>');
+            }else {
+              document.write('<a href="https://twitter.com/intent/tweet?hashtags={{ site.hashtag }}&url={{ site.url }}{{ page.url }}" target="_blank">ご意見・ご感想は Twitter の #{{ site.hashtag }} までお願いいたします。</a>');
+            }
+            </script>
           </div>
 
           <div class="article-content-back">
