@@ -30,7 +30,7 @@
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <description>{{ post.description | xml_escape }}</description>
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-        <enclosure url="{{ site.url }}{{ post.rec_file }}" length="{{ post.rec_size }}" type="audio/mp3"/>
+        <enclosure url="{{ site.url }}{{ post.file }}" length="{{ post.size }}" type="audio/mp3"/>
         <itunes:author>{{ site.author }}</itunes:author>
         <itunes:subtitle>{{ post.description }}</itunes:subtitle>
         <itunes:duration>{{ post.duration }}</itunes:duration>
