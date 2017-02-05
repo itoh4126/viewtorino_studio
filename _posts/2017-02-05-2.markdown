@@ -36,7 +36,7 @@ size: 42450905
 - [Nintendo Switch](https://www.nintendo.co.jp/hardware/switch/index.html)
   - [Splatoon2](https://www.nintendo.co.jp/software/switch/splatoon2/)
 - [ニンテンドークラシックミニ ファミリーコンピュータ](https://www.nintendo.co.jp/clv/)
-- [世界中のボードゲームで遊べるカフェ](http://jellyjellycafe.com/)
+- [JELLY JELLY CAFE - 世界中のボードゲームで遊べるカフェ](http://jellyjellycafe.com/)
 - [SUPERSONIC (OFFICIAL OASIS DOCUMENTARY FILM)](http://oasis-supersonic.jp/)
   - [Hurricane #1 Japan Tour 2016](http://info13725.wixsite.com/hurricane1)
 - [TVアニメ『リトルウィッチアカデミア』公式サイト](http://tv.littlewitchacademia.jp/)
