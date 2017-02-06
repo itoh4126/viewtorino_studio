@@ -7,8 +7,8 @@ voice_ids:
   - ogata
 description: Kensei Ogata Band レコーディング進捗・使用機材、Macbook Pro、AirPods、2016年良かった作品などについて話しました。
 duration: "00:00"
-rec_file: /rec/20161228.mp3
-rec_size: 27322874
+file: /rec/20161228.mp3
+size: 27322874
 ---
 
 ## 参照

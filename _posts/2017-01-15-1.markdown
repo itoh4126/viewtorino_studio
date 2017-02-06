@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 第1話 「@midori_aiueo を迎えて、2017年の話」
+title: 第1話 「midoriさんを迎えて、2017年の話」
 date: 2017-01-15 11:00:00 +0900
 voice_ids:
   - ogata
@@ -8,8 +8,8 @@ voice_ids:
   - midori
 description: 2017年の抱負、Podcast を始めた動機、1~2月の Kensei Ogata Band ライブ事情、リトルウィッチアカデミアなどについて話しました。
 duration: "00:00"
-rec_file: /rec/20170115.mp3
-rec_size: 20294440
+file: /rec/20170115.mp3
+size: 20294440
 ---
 
 ## 参照
