@@ -56,6 +56,6 @@ size: 42450905
 ## 収録環境
 
 - Shure BETA 57A (ogata)
-- Shure BETA 58A x2 (itoh, nakanoise)
+- Shure BETA 58A x2 (itoh, nakano)
 - RME Fireface 800
 - Steinberg Cubase
