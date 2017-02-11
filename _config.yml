@@ -51,4 +51,5 @@ markdown: kramdown
 permalink: /ep/:title
 sass:
   sass_dir: css
-  timezone: Asia/Tokyo
+  style: compressed
+timezone: Asia/Tokyo
