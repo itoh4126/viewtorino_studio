@@ -9,7 +9,7 @@ voice_ids:
 description: nakanoiseの中野さんをゲストに迎えて、Shureの偽物を掴まされた件、Big Muff、今買いたいギター、シンプルライフ、Supersonic、フリップフラッパーズ、ワンダーパーラーカフェ、やがて君になる、FLOWERSなどについて話しました。
 duration: "00:00"
 file: /rec/20170205.mp3
-size: 42450905
+size: 44134825
 ---
 
 ## 参照
