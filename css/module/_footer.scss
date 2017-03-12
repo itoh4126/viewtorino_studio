@@ -1,0 +1,122 @@
+.footer {
+	background: $color-main;
+	color: $color-bg;
+
+	padding: 20px 0 0;
+	@media #{$small} {
+		padding: 2rem 0 0;
+	}
+
+  .footer-block {
+    @include m-flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    @media #{$large} {
+      padding: 3rem 0 0;
+    }
+  }
+
+
+  .footer-block .footer-feed { width: 30%; }
+	.footer-block .footer-info {
+		width: 60%;
+		margin-bottom: 3rem;
+		text-align: center;
+		p {
+			letter-spacing: -.05rem;
+		}
+	}
+	@media #{$small} {
+		.footer-block .footer-element { width: 100%; }
+	}
+
+  .footer-block .footer-header {
+    margin-bottom: 2rem;
+		text-align: center;
+		font-size: 2.2rem;
+		@media #{$small} {
+			font-size: 1.8rem;
+		}
+		&:after {
+			display: block;
+			content: '';
+			width: 80px;
+			height: 5px;
+			margin: 1rem auto 0.5rem;
+			background: $color-sub;
+		}
+  }
+
+		.footer-feed .feed-list {
+			list-style: none;
+		}
+		.feed-list .feed-list-item {
+      display: block;
+			margin: 10px;
+      text-align: center;
+		}
+			.feed-list-item	a {
+				border-radius: 3px;
+				display: inline-block;
+				padding: 3px 7px;
+				font-weight: 300;
+				font-size: 1.2rem;
+				transition: background 0.6s, color 0.6s;
+				width: 50%;
+			}
+			.feed-list-item	.btn-podcast {
+				@include m-btn-podcast;
+				border: 1px solid $color-podcast;
+				color: $color-podcast;
+				&:hover {
+					background: $color-podcast;
+					color: #fff;
+				}
+			}
+      .feed-list-item	.btn-android {
+        @include m-btn-android;
+        border: 1px solid $color-android;
+        color: $color-android;
+        &:hover {
+          background: $color-android;
+          color: #fff;
+        }
+      }
+			.feed-list-item	.btn-rss {
+				@include m-btn-rss;
+				border: 1px solid $color-rss;
+				color: $color-rss;
+				&:hover {
+					background: $color-rss;
+					color: #fff;
+				}
+			}
+
+	.footer-cp {
+    display: block;
+    width: 100%;
+		margin: 2rem 0 0;
+		text-align: center;
+	}
+	.footer-cp a {
+		color: $color-sub;
+		font-family: $font-sub;
+		font-size: 1.2rem;
+		font-weight: 700;
+		letter-spacing: .05rem;
+		padding: 0.5rem 1rem;
+		display: inline-block;
+		text-transform: uppercase;
+		transition: opacity 0.6s;
+		&:hover {
+			opacity: .5;
+		}
+		&:before {
+			content: "\f1f9";
+			font-family: FontAwesome;
+			font-size: 1.2rem;
+			margin-right: 0.5rem;
+		}
+	}
+
+}

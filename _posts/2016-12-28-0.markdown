@@ -5,7 +5,7 @@ date: 2016-12-28 11:30:00 +0900
 voice_ids:
   - itoh
   - ogata
-description: Kensei Ogata Band レコーディング進捗・使用機材、Macbook Pro、AirPods、2016年良かった作品などについて話しました。
+description: Kensei Ogata Band レコーディング進捗・機材、Macbook Pro、AirPods、2016年良かった作品などについて話しました。
 duration: "00:00"
 file: /rec/20161228.mp3
 size: 27322874
@@ -13,31 +13,60 @@ size: 27322874
 
 ## 参照
 
-- [リアンプとは？ - Digiland (デジランド) 島村楽器のデジタルガジェット情報発信サイト](http://info.shimamura.co.jp/digital/special/2016/05/30126)
-- [Marshall - Astoria Classic](http://www.marshallamps.jp/products/amplifiers/astoria-series/astoria-classic/)
-- [Rickenbacker 660 12弦](https://www.youtube.com/watch?v=5Pwq-MqmNrY)
-- [Kensei Ogataさんのツイート: "まつだ家の蔵にあったJC-77、サイズ感可愛いし音もJC-120より暴れなくて扱いやすい（Hi-Trebleってツマミがが可変ブライトスイッチみたいになってて良い）からあれをワールドスタンダードにしてくれって思った" ](https://twitter.com/CuddlyDominion/status/747073718023651330)
-- [Rickenbacker 620 FG を演奏しているLive映像](https://www.youtube.com/watch?v=erwc9AOywB4)
-- [Electro-Harmonix - C9 Organ Machine](http://www.kcmusic.jp/ehx/c9.html)
-- [Midnight Amplification Devices - Derange Master](http://www.midnightamplification.com/product/derange-master)
-  - [Analog Man - Beano Boost](http://www.analogman.com/beano.htm)
-- [PreSonus - Studio One 3](http://www.mi7.co.jp/products/presonus/studioone/)
-- [Apple - MacBook Pro (Mid 2012)](https://support.apple.com/kb/SP649?locale=ja_JP&viewlocale=ja_JP)
-- [Apple - AirPods](http://www.apple.com/jp/airpods/)
-- [TECH21 - Liverpool](http://allaccess.co.jp/sansamp/liverpool/)
-- [TVアニメ「フリップフラッパーズ」公式サイト](http://www.flipflappers.com/)
-- [サクラノ詩 (枕 -makura web-)](http://www.keromakura.net/)
-- [FLOWERS - Gungnir](http://www.gungnir.co.jp/lily/index2.html)
-- [ef - a fairy tale of the two. - (minori)](http://www.minori.ph/)
-  - [TVアニメ『ef - a tale of memories.』オフィシャルページ](http://www.ef-memo.com/)
-- [KIDSAREDEAD](https://kidsaredead.bandcamp.com/)
-- [Lionlimb](https://lionlimb.bandcamp.com/)
-- [Graham Alexander](http://www.graham-alexander.net/)
-- [UKロック好きアイドル・NMB48 薮下柊×クーラ・シェイカーの異色対談実現　互いの音楽観を語り合う (Real Sound)](http://realsound.jp/2016/12/post-10723.html)
+- #### 02:00
+> ### Reamp
+> [リアンプとは？ - Digiland (デジランド) 島村楽器のデジタルガジェット情報発信サイト](http://info.shimamura.co.jp/digital/special/2016/05/30126)
 
-## 収録環境
+- #### 05:00
+> ### [Marshall - Astoria Classic](http://www.marshallamps.jp/products/amplifiers/astoria-series/astoria-classic/)
 
-- Shure BETA 57A
-- Shure BETA 58A
-- RME Fireface 800
-- Steinberg Cubase
+- #### 05:50
+> ### Roland JC-77
+> [Kensei Ogataさんのツイート: "まつだ家の蔵にあったJC-77、サイズ感可愛いし音もJC-120より暴れなくて扱いやすい（Hi-Trebleってツマミがが可変ブライトスイッチみたいになってて良い）からあれをワールドスタンダードにしてくれって思った" ](https://twitter.com/CuddlyDominion/status/747073718023651330)
+
+- #### 07:10
+> ### Rickenbacker
+> [Rickenbacker 660 12弦](https://www.youtube.com/watch?v=5Pwq-MqmNrY)  
+> [Rickenbacker 620 FG を演奏しているLive映像](https://www.youtube.com/watch?v=erwc9AOywB4)
+
+- #### 11:20
+> ### [Electro-Harmonix - C9 Organ Machine](http://www.kcmusic.jp/ehx/c9.html)
+
+- #### 13:30
+> ### Range Master
+> [Midnight Amplification Devices - Derange Master](http://www.midnightamplification.com/product/derange-master)  
+> [Analog Man - Beano Boost](http://www.analogman.com/beano.htm)
+
+- #### 19:30
+> ### [PreSonus - Studio One 3](http://www.mi7.co.jp/products/presonus/studioone/)
+
+- #### 23:40
+> ### MacBook Pro
+> [Apple - MacBook Pro (Mid 2012)](https://support.apple.com/kb/SP649?locale=ja_JP&viewlocale=ja_JP)  
+> [Apple - AirPods](http://www.apple.com/jp/airpods/)
+
+- #### 39:00
+> ### フリップフラッパーズ
+> [TVアニメ「フリップフラッパーズ」公式サイト](http://www.flipflappers.com/)
+
+- #### 40:00
+> ### サクラノ詩
+> [サクラノ詩 (枕 -makura web-)](http://www.keromakura.net/)
+
+- #### 42:00
+> ### ef
+> [ef - a fairy tale of the two. - (minori)](http://www.minori.ph/)  
+> [TVアニメ『ef - a tale of memories.』オフィシャルページ](http://www.ef-memo.com/)
+
+- #### 45:30
+> ### [KIDSAREDEAD](https://kidsaredead.bandcamp.com/)
+
+- #### 46:00
+> ### [Lionlimb](https://lionlimb.bandcamp.com/)
+
+- #### 47:00
+> ### [Graham Alexander](http://www.graham-alexander.net/)
+
+- #### 54:10
+> ### Britpop
+> [UKロック好きアイドル・NMB48 薮下柊×クーラ・シェイカーの異色対談実現　互いの音楽観を語り合う (Real Sound)](http://realsound.jp/2016/12/post-10723.html)

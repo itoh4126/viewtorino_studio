@@ -1,12 +1,16 @@
 @charset "UTF-8";
 
-$color-bg:   #000;
-$color-text: #fff;
-$color-main: #B0DA39;
-$color-sub:  #797772;
-$color-twitter:  #00aced;
+$color-bg: #e5e5e5;
+$color-text: #0e1e44;
+$color-main: #192235;
+$color-sub: #4f5977;
+$color-light: #ddd;
+
 $color-podcast:  #ae4cdf;
+$color-android:  #8BC34A;
 $color-rss:  #ff6600;
+$color-twitter:  #00aced;
+
 
 
 .u-cf::after {
@@ -23,6 +27,13 @@ $color-rss:  #ff6600;
 	}
 }
 
+@mixin m-flex {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 @mixin m-link {
 	transition: opacity 0.6s;
 	&:hover {
@@ -30,41 +41,27 @@ $color-rss:  #ff6600;
 	}
 }
 
-@mixin m-border {
-	position: relative;
-	&:before {
-		background-color: currentColor;
-		content: '';
-		display: inline-block;
-		position: absolute;
-		bottom: 0;
-		height: 1px;
-		width: 100%;
-		transform: scaleX(0);
-		transform-origin: right;
-		transition: transform .6s cubic-bezier(.55, 0, .1, 1);
-	}
-	&:hover:before {
-		transform: scaleX(1);
-		transform-origin: left;
-		transition: transform .6s cubic-bezier(.55, 0, .1, 1);
-	}
-}
-
-@mixin m-btn-twitter {
-	&:before {
-		content: "\f099";
-		font-family: FontAwesome;
-		margin-right: 0.5rem;
-	}
+@mixin m-link-text {
+	color: $color-sub;
+  &:hover {
+    text-decoration: underline;;
+  }
 }
 
 @mixin m-btn-podcast {
 	&:before {
-		content: "\f2ce";
+		content: "\f179";
 		font-family: FontAwesome;
 		margin-right: 0.5rem;
 	}
+}
+
+@mixin m-btn-android {
+  &:before {
+    content: "\f17b";
+    font-family: FontAwesome;
+    margin-right: 0.5rem;
+  }
 }
 
 @mixin m-btn-rss {
@@ -73,4 +70,17 @@ $color-rss:  #ff6600;
 		font-family: FontAwesome;
 		margin-right: 0.5rem;
 	}
+}
+
+
+.cocona {
+    color: #414481;
+}
+
+.papika {
+    color: #F9786B;
+}
+
+.yayaka {
+    color: #F0CD88;
 }

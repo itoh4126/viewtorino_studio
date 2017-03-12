@@ -9,53 +9,100 @@ voice_ids:
 description: nakanoiseの中野さんをゲストに迎えて、Shureの偽物を掴まされた件、Big Muff、今買いたいギター、シンプルライフ、Supersonic、フリップフラッパーズ、ワンダーパーラーカフェ、やがて君になる、FLOWERSなどについて話しました。
 duration: "00:00"
 file: /rec/20170205.mp3
+elan: test20170222
 size: 44134825
 ---
 
-## 参照
+- #### 20:20
+> ### [Shure BETA 57A](https://www.shure.co.jp/ja/products/microphones/beta_57a)
 
-- [Shure BETA 57A](https://www.shure.co.jp/ja/products/microphones/beta_57a)
-- [56式自動歩槍](https://goo.gl/ycsxi0)
-- [David Gilmour Signature Stratocaster®](http://www.fendercustomshop.com/series/artist/david-gilmour-signature-stratocaster-nos-maple-fingerboard-black/)
-- [本物のcivil war弾かせてもらった！粒が細かくてクリーミーな音](https://www.instagram.com/p/BOCafpUhG7g/)
-  - [JHS Pedals Muffuletta](https://www.jhspedals.com/products/bass-pedals/muffuletta/)
-- [Vemuram Jan Ray](http://www.vemuram.com/janray-top.html)
-- [Crazy Comet](http://escmad.blog.fc2.com/blog-entry-6.html)
-  - [MARQUEE BEACH CLUB](http://marqueebeachclub.tumblr.com/)
-- [Sustain Punch Creamy Dreamer](http://www.cubisteffects.com/2009/08/sustain-punch-creamy-dreamer/)
-- [LIFE PACKING2.1―未来を生きるためのモノと知恵](http://amzn.asia/bp4ZtM0)
-- [Squire JGQ](http://playerco.sakura.ne.jp/archive_images/SQJMQ0002.jpg)
-- [Zwan - Rock am Ring 2003 (FULL SHOW) ](https://youtu.be/AeqaZ00f3jA?t=1653)
-- [Built to Spill](https://goo.gl/VbQhc0)
-  - [Quasi: Battle Hymns](http://www.quasiband.com/)
-- [工房Path](http://www.path-guitarbassandfx.com/)
-- [ジャガーのフロントピックアップの交換＋プリセット回路の除去。左側に置いてあるのが外した配線。こんな長さの配線がギターの中を這ってるのはジャガーとジャズマスターくらい？精神衛生的なことを考えてメインの配線もまともな線材に交換](https://www.instagram.com/p/BOw4LsChlh7/)
-- [J Mascis and Lou Barlow Explain the Dinosaur Jr Sound - Reverb](https://reverb.com/news/j-mascis-and-lou-barlow-explain-the-dinosaur-jr-sound)
-- [ZT Amp Lunchbox](https://goo.gl/4OH80n)
-  - [Orange Amps Tiny Terror](https://orangeamps.com/tiny-terror-10th-anniversary/)
-- [65Amps Colour Boost](http://www.65amps.com/pedals/colour-boost)
-- [Nintendo Switch](https://www.nintendo.co.jp/hardware/switch/index.html)
-  - [Splatoon2](https://www.nintendo.co.jp/software/switch/splatoon2/)
-- [ニンテンドークラシックミニ ファミリーコンピュータ](https://www.nintendo.co.jp/clv/)
-- [JELLY JELLY CAFE - 世界中のボードゲームで遊べるカフェ](http://jellyjellycafe.com/)
-- [SUPERSONIC (OFFICIAL OASIS DOCUMENTARY FILM)](http://oasis-supersonic.jp/)
-  - [Hurricane #1 Japan Tour 2016](http://info13725.wixsite.com/hurricane1)
-- [TVアニメ『リトルウィッチアカデミア』公式サイト](http://tv.littlewitchacademia.jp/)
-  - [新谷真弓](https://goo.gl/06IVnJ)
-  - [村瀬迪与](https://goo.gl/8YRgXm)
-- [TVアニメ「フリップフラッパーズ」公式サイト](http://www.flipflappers.com/)
-  - [動物と人間の世界認識―イリュージョンなしに世界は見えない](http://amzn.asia/iPWjCGB)
-- [GUNSLINGER GIRL](http://amzn.asia/fWaBhN6)
-- [乙嫁語り](http://amzn.asia/hKrQ5YE)
-- [エマ](http://amzn.asia/0HoVhLO)
-- [椿屋珈琲店](http://www.towafood-net.co.jp/cafe/tabid/79/Default.aspx)
-- [ワンダーパーラーカフェ](http://wonder-parlour.com/)
-- [やがて君になる](http://daioh.dengeki.com/contents/yagate/)
-- [FLOWERS](http://www.gungnir.co.jp/lily/flowers/index.html)
+- #### 20:20
+> ### [56式自動歩槍 - Wikipedia](https://goo.gl/ycsxi0)
 
-## 収録環境
+- #### 20:20
+> ### Big Muff (civil war)
+> [Kensei OgataさんはInstagramを利用しています:「本物のcivil war弾かせてもらった！粒が細かくてクリーミーな音](https://www.instagram.com/p/BOCafpUhG7g/)  
+> [JHS Pedals Muffuletta](https://www.jhspedals.com/products/bass-pedals/muffuletta/)
 
-- Shure BETA 57A (ogata)
-- Shure BETA 58A x2 (itoh, nakano)
-- RME Fireface 800
-- Steinberg Cubase
+- #### 20:20
+> ### [Vemuram Jan Ray](http://www.vemuram.com/janray-top.html)
+
+- #### 20:20
+> ### Crazy Comet
+> [Crazy Comet](http://escmad.blog.fc2.com/blog-entry-6.html)  
+> [MARQUEE BEACH CLUB](http://marqueebeachclub.tumblr.com/)
+
+- #### 20:20
+> ### Billy CorganのBig Muff
+> [Sustain Punch Creamy Dreamer](http://www.cubisteffects.com/2009/08/sustain-punch-creamy-dreamer/)
+
+- #### 20:20
+> ### [LIFE PACKING2.1―未来を生きるためのモノと知恵](http://amzn.asia/bp4ZtM0)
+
+- #### 20:20
+> ### 1975s Jaguar
+> [Zwan - Rock am Ring 2003 (FULL SHOW) ](https://youtu.be/AeqaZ00f3jA?t=1653)
+
+- #### 20:20
+> ### [Built to Spill](https://goo.gl/VbQhc0)
+> [Quasi: Battle Hymns](http://www.quasiband.com/)
+
+- #### 20:20
+> ### [工房Path](http://www.path-guitarbassandfx.com/)
+
+- #### 20:20
+> ### Fender Jaguar の回路
+> [Kensei OgataさんはInstagramを利用しています:ジャガーのフロントピックアップの交換＋プリセット回路の除去。左側に置いてあるのが外した配線。こんな長さの配線がギターの中を這ってるのはジャガーとジャズマスターくらい？精神衛生的なことを考えてメインの配線もまともな線材に交換](https://www.instagram.com/p/BOw4LsChlh7/)
+
+- #### 20:20
+> ### Reverb.comの映像
+> [J Mascis and Lou Barlow Explain the Dinosaur Jr Sound - Reverb](https://reverb.com/news/j-mascis-and-lou-barlow-explain-the-dinosaur-jr-sound)
+
+- #### 20:20
+> ### [ZT Amp Lunchbox](https://goo.gl/4OH80n)
+> [Orange Amps Tiny Terror](https://orangeamps.com/tiny-terror-10th-anniversary/)
+
+- #### 20:20
+> ### Range Master Clone
+> [65Amps Colour Boost](http://www.65amps.com/pedals/colour-boost)
+
+- #### 20:20
+> ### [Nintendo Switch](https://www.nintendo.co.jp/hardware/switch/index.html)
+> [Splatoon2](https://www.nintendo.co.jp/software/switch/splatoon2/)  
+> [ニンテンドークラシックミニ ファミリーコンピュータ](https://www.nintendo.co.jp/clv/)
+
+- #### 20:20
+> ### [JELLY JELLY CAFE - 世界中のボードゲームで遊べるカフェ](http://jellyjellycafe.com/)
+
+- #### 20:20
+> ### [SUPERSONIC (OFFICIAL OASIS DOCUMENTARY FILM)](http://oasis-supersonic.jp/)
+> [Hurricane #1 Japan Tour 2016](http://info13725.wixsite.com/hurricane1)
+
+- #### 20:20
+> ### [TVアニメ『リトルウィッチアカデミア』公式サイト](http://tv.littlewitchacademia.jp/)
+> [新谷真弓](https://goo.gl/06IVnJ)  
+> [村瀬迪与](https://goo.gl/8YRgXm)
+
+- #### 20:20
+> ### フリップフラッパーズ
+> [TVアニメ「フリップフラッパーズ」公式サイト](http://www.flipflappers.com/)  
+> [動物と人間の世界認識―イリュージョンなしに世界は見えない](http://amzn.asia/iPWjCGB)
+
+- #### 20:20
+> ### [GUNSLINGER GIRL](http://amzn.asia/fWaBhN6)
+
+- #### 20:20
+> ### 森薫
+> [乙嫁語り](http://amzn.asia/hKrQ5YE)  
+> [エマ](http://amzn.asia/0HoVhLO)
+
+- #### 20:20
+> ### メイド喫茶
+> [椿屋珈琲店](http://www.towafood-net.co.jp/cafe/tabid/79/Default.aspx)  
+> [ワンダーパーラーカフェ](http://wonder-parlour.com/)
+
+- #### 20:20
+> ### [やがて君になる](http://daioh.dengeki.com/contents/yagate/)
+
+- #### 20:20
+> ### [FLOWERS](http://www.gungnir.co.jp/lily/flowers/index.html)

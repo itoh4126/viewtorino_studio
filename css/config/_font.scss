@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 200;
+}
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Bold");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Helvetica Neue";
+  src: local("Helvetica Neue Regular");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Helvetica Neue";
+  src: local("Helvetica Neue Regular");
+  font-weight: 200;
+}
+
+$font-main: "-apple-system", "Helvetica Neue", Hiragino Sans, "Hiragino Kaku Gothic ProN", "Yu Gothic", YuGothic, Verdana, Arial,  Meiryo, sans-serif;
+$font-sub: "Avenir Next", "Helvetica Neue", Hiragino Sans, "Hiragino Kaku Gothic ProN", "Yu Gothic", YuGothic, Verdana, Arial, Meiryo, sans-serif;
+
+@mixin m-font-s {
+  font-family: "Avenir Next";
+	text-transform: uppercase;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+  font-family: $font-main;
+	font-size: 14px;
+	font-size: 1.4rem;
+	font-weight: 600;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+	-webkit-text-size-adjust: 100%;
+}

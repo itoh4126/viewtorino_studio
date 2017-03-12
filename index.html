@@ -1,26 +1,31 @@
 ---
-layout: default
+layout: top
 ---
-<main class="top container-fluid" role="main">
 
-  <article class="post">
+<div class="section main">
 
-    {% for post in site.posts %}
-    <section class="post-content">
-      <a href="{{ post.url }}">
-        <h1 class="post-content-header">
-          {{ post.title }}
-        </h1>
-        <div class="post-content-date">
-          {{ post.date | date: "%B %d, %Y" }}
-        </div>
-        <p class="post-content-description">
-          {{ post.description }}
-        </p>
-      </a>
-      </section>
-    {% endfor %}
+    <main class="container" role="main">
 
-  </article>
+      <article class="post">
 
-</main>
+        {% for post in site.posts %}
+        <section class="post-content">
+          <a href="{{ post.url }}">
+            <h1 class="post-content-header">
+              {{ post.title }}
+            </h1>
+            <div class="post-content-date">
+              {{ post.date | date: "%B %d, %Y" }}
+            </div>
+            <p class="post-content-description">
+              {{ post.description }}
+            </p>
+          </a>
+          </section>
+        {% endfor %}
+
+      </article>
+
+    </main>
+
+</div>

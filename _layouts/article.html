@@ -5,18 +5,9 @@
 
     {% include header.html %}
 
-    <div class="page-wrapper">
+    <div class="section main">
 
-      <script type="text/javascript">
-      if ( navigator.userAgent.indexOf('iPhone') > 0 || navigator.userAgent.indexOf('iPad') > 0 || navigator.userAgent.indexOf('iPod') > 0 || navigator.userAgent.indexOf('Android') > 0) {
-        document.write('');
-      }else {
-        document.write('<video id="mv" poster="/images/mv.png" autoplay="play" preload="auto" loop="loop"><source src="/images/mv.mp4" type="video/mp4"></video>');
-        document.write('<div class="mv-mask"></div>');
-      }
-      </script>
-
-      <main class="main container-fluid" role="main">
+      <main class="container" role="main">
 
         <article class="article-content">
 
@@ -24,11 +15,15 @@
             {{ page.title }}
           </h1>
 
-          <p class="article-content-date">
+          <p class="content-item article-content-date">
             {{ page.date | date: "%B %d, %Y" }}
           </p>
 
-          <div class="article-content-rec content-item">
+          <div class="content-item article-content-description">
+            {{ page.description }}
+          </div>
+
+          <div class="content-item article-content-rec">
             <audio
                 class="mejs-player"
                 width="100%"
@@ -40,43 +35,26 @@
             <a class="rec-file" href="{{ page.file }}">Download</a>
           </div>
 
-          <div class="article-content-description content-item">
-            {{ page.description }}
-          </div>
-
-          <h2 class="article-content-header">出演</h2>
-          <div class="article-content-voices content-item">
+          <div class="content-item article-content-voices">
+            <h2 class="content-item-header">出演</h2>
             <ul class="voices-list">
               {% for voice_id in page.voice_ids %}
               {% assign voice = site.voices[voice_id] %}
               <li class="voices-list-item">
-                <span class="voices-item-name">
+                <a class="item-url" href="{{ voice.url }}" target="_blank">
                   {{ voice.name }}
-                </span>
-                <br>
-                <a class="voices-item-url" href="{{ voice.url }}" target="_blank">
-                  {{ voice.url }}
                 </a>
               </li>
               {% endfor %}
             </ul>
           </div>
 
-          <div class="article-content-md">
+          <div class="content-item article-content-md">
+            <h2 class="content-item-header">参照</h2>
             {{ content }}
           </div>
 
-          <div class="article-content-share">
-            <script type="text/javascript">
-            if ( navigator.userAgent.indexOf('iPhone') > 0 || navigator.userAgent.indexOf('iPod') > 0 || navigator.userAgent.indexOf('Android') > 0) {
-              document.write('<a href="https://twitter.com/intent/tweet?hashtags={{ site.hashtag }}&url={{ site.url }}{{ page.url }}" target="_blank">ご意見・ご感想は #{{ site.hashtag }} まで<br>お願いいたします。</a>');
-            }else {
-              document.write('<a href="https://twitter.com/intent/tweet?hashtags={{ site.hashtag }}&url={{ site.url }}{{ page.url }}" target="_blank">ご意見・ご感想は Twitter の #{{ site.hashtag }} までお願いいたします。</a>');
-            }
-            </script>
-          </div>
-
-          <div class="article-content-back">
+          <div class="page-back">
             <a href="/">
               Back
             </a>
@@ -93,10 +71,11 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/2.23.4/mediaelement-and-player.js"></script>
-    <script language="JavaScript">
+    <script>
     $(document).ready( function () {
-      $(".article-content-md a").attr('target', '_blank');
-    })
+      $('.article-content-md a').attr('target', '_blank');
+      $('.article-content-md h4').after('<div class="marker"></div>');
+    });
     </script>
 
   </body>

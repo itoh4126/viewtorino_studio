@@ -1,0 +1,125 @@
+.article-content {
+
+	&-ttl {
+		font-size: 2.8rem;
+		font-weight: 700;
+			text-align: center;
+			&:after {
+				display: block;
+				content: '';
+				width: 160px;
+				height: 5px;
+				margin: 1rem auto 0.5rem;
+				background: $color-text;
+			}
+		@media #{$small} {
+			font-size: 1.6rem;
+		}
+	}
+
+	&-date {
+		@include m-font-s;
+		color: $color-sub;
+		text-align: center;
+		@media #{$small} {
+			font-size: 1.0rem;
+		}
+	}
+
+	&-description {
+		padding: 2rem;
+		background: $color-light;
+		line-height: 2.0rem;
+		border-radius: 4px;
+		@media #{$large} {
+			width: 70%;
+			margin: 6rem auto 10rem;
+			font-size: 1.4rem;
+		}
+		@media #{$small} {
+			font-size: 1.2rem;
+		}
+		&:first-letter {
+			font-size: 2.4rem;
+			text-transform: uppercase;
+		}
+	}
+
+	&-rec {
+		.rec-file {
+			display: inline-block;
+			float: right;
+			@include m-link;
+		}
+		.rec-file:before {
+			content: "\f019";
+			font-family: FontAwesome;
+			padding-right: 5px;
+		}
+		@include m-cf;
+	}
+
+	&-voices {
+
+		.voices-list {
+			@include m-flex;
+			flex-flow: row wrap;
+			list-style: none;
+
+			&-item {
+				display: block;
+				-webkit-flex: auto;
+				flex: auto;
+				box-sizing: border-box;
+				padding: 1rem 2rem;
+			}
+			.item-url {
+				display: inline-block;
+				width: 100%;
+				padding: 0.5rem 1rem;
+				border: 5px solid $color-text;
+				font-size: 1.6rem;
+				text-align: center;
+				transition: background 0.2s, color 0.2s;
+				background: transparent;
+				&:hover {
+					background: $color-text;
+					color: $color-bg;
+				}
+			}
+		}
+	}
+
+}
+
+.content-item {
+	margin-bottom: 6rem;
+	@media #{$small} {
+		margin-bottom: 3rem;
+	}
+
+	&-header {
+		display: table;
+		font-family: $font-sub;
+		font-weight: 800;
+		margin-bottom: 3rem;
+		text-align: center;
+		white-space: nowrap;
+		&:before, &:after {
+			content: '';
+			display: table-cell;
+			width: 50%;
+			background: -webkit-linear-gradient(transparent 50%, currentColor 50%, currentColor -webkit-calc(50% + 1px), transparent -webkit-calc(50% + 1px));
+			background: -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(50%, currentColor), color-stop(currentColor calc(50% + 1px)), to(transparent calc(50% + 1px)));
+			background: linear-gradient(transparent 50%, currentColor 50%, currentColor calc(50% + 1px), transparent calc(50% + 1px));
+			-webkit-background-clip: padding;
+			background-clip: padding;
+		}
+		&:before {
+			border-right: 1rem solid transparent;
+		}
+		&:after {
+			border-left: 1rem solid transparent;
+		}
+	}
+}

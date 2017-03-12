@@ -1,0 +1,50 @@
+.info-content {
+	text-align: center;
+
+	&-header {
+		display: table;
+		font-family: $font-sub;
+		font-weight: 800;
+		margin-bottom: 3rem;
+		text-align: center;
+		white-space: nowrap;
+		&:before, &:after {
+			content: '';
+			display: table-cell;
+			width: 50%;
+			background: -webkit-linear-gradient(transparent 50%, currentColor 50%, currentColor -webkit-calc(50% + 1px), transparent -webkit-calc(50% + 1px));
+			background: -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(50%, currentColor), color-stop(currentColor calc(50% + 1px)), to(transparent calc(50% + 1px)));
+			background: linear-gradient(transparent 50%, currentColor 50%, currentColor calc(50% + 1px), transparent calc(50% + 1px));
+			-webkit-background-clip: padding;
+			background-clip: padding;
+		}
+		&:before {
+			border-right: 1rem solid transparent;
+		}
+		&:after {
+			border-left: 1rem solid transparent;
+		}
+		@media #{$small} {
+			margin-bottom: 1.5rem;
+		}
+	}
+
+	p {
+		margin-bottom: 1rem;
+		text-align: left;
+		@media #{$small} {
+			font-size: 1.25rem;
+			line-height: 2.2rem;
+		}
+	}
+
+	a {
+		@include m-link;
+		text-decoration: underline;
+	}
+
+	ul {
+		list-style-type: none;
+	}
+
+}

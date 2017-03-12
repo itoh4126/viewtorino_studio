@@ -1,0 +1,42 @@
+.article-content-rec {
+
+  .mejs-container {
+    background: none;
+    .mejs-controls {
+      background: none;
+      .mejs-button button {
+        background: none;
+        &:after {
+          display: inline-block;
+          width: 16px;
+          height: 16px;
+          color: $color-text;
+          font-family: FontAwesome;
+          font-size: 1.6rem;
+          position: absolute;
+          top: 0.75rem;
+          left: 0;
+        }
+      }
+      .mejs-play button:after { content: "\f04b"; }
+      .mejs-pause button:after { content: "\f04c"; }
+      .mejs-mute button:after { content: "\f028"; }
+      .mejs-unmute button:after { content: "\f026"; }
+
+      .mejs-time-rail {
+        .mejs-time-total { background: $color-light !important }
+        .mejs-time-loaded { background: $color-sub !important }
+        .mejs-time-current { background: $color-main !important }
+      }
+      .mejs-time {
+        color: $color-text;
+        @media #{$small} {
+          float: right;
+          padding: 10px 0 0;
+        }
+      }
+    }
+    .mejs-horizontal-volume-total { background: $color-sub !important }
+    .mejs-horizontal-volume-current { background: $color-main !important }
+  }
+}
