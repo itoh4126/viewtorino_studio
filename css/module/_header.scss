@@ -16,6 +16,7 @@
     }
 
     &-ttl {
+      @include m-font-s;
       @include m-flex;
       align-items: center;
       font-size: 10rem;
@@ -172,10 +173,7 @@
   }
 }
 @include keyframes(plectrum) {
-  50% {
-    opacity: 1;
-  }
   100% {
-    opacity: 0;
+    opacity: 1;
   }
 }
