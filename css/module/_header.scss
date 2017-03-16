@@ -56,6 +56,7 @@
      svg {
       height: auto;
       fill: $color-text;
+      max-height: 300px;
       @media #{$small} {
         max-height: 50vh
       }
