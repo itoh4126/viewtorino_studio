@@ -36,6 +36,15 @@ voices:
   nakano:
     name: nakano
     url: https://twitter.com/nakanoise
+  amax:
+    name: amax
+    url: https://twitter.com/amax_bass
+  matsuda:
+    name: まつだひかり
+    url: https://twitter.com/niko9_niku9
+  koichizikan:
+    name: こいち
+    url: https://twitter.com/koichizikan
 
 # Build settings
 language: ja
