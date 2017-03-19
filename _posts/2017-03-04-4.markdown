@@ -1,0 +1,62 @@
+---
+layout: article
+title: 第4話 「まつだひかりさん&こいちさんと、新年会（後編）」
+date: 2017-03-04 16:00:00 +0900
+voice_ids:
+  - ogata
+  - itoh
+  - midori
+  - nakano
+  - matsuda
+  - koichizikan
+description: 前回収録の後、ナカノイズの中野さん・まつだひかりさん・こいちさんと、好きなBOSSコンパクトエフェクター、小林さんちのメイドラゴン、ギター警察、自作7弦ジャガー、サウンドハウスの実店舗、クリックは友達、イラスト制作などについて話しました。今回は中野さんのご好意により素敵なプレゼントがありますのでその辺りもチェックしていただければ幸いです。
+duration: "00:00"
+file: /rec/20170304b.mp3
+size: 46489371
+---
+
+- #### 04:20
+> ### 布袋モデル
+> [TEJ-SERIES | FERNANDES OFFICIAL WEB SITE](http://www.fernandes.co.jp/products/tej-standard-series.html)
+
+- #### 02:50
+> ### [第1回 利きエフェクター 人気マーシャル系ペダルの音を聴き当てられるのか？｜デジマート地下実験室](http://www.digimart.net/magazine/article/2016120102307.html)
+
+- #### 06:30
+> ### [The BOSS BOOK 2](http://amzn.asia/i1k3G1t )
+
+- #### 14:10
+> ### [PSK CDV-5 Core Drive](https://ja.wikipedia.org/wiki/Tetsuya#.E3.82.A8.E3.83.95.E3.82.A7.E3.82.AF.E3.82.BF.E3.83.BC.E7.AD.89)
+
+- #### 21:30
+> ### [CE-3 Chorus（コーラス） | BOSSマニア共和国 ](http://bossmania.club/ce-3/)
+> [Stone Roses - Finland '90 - Sally Cinnamon](https://www.youtube.com/watch?v=BsE2dgDWO28)  
+> [【試奏動画】BOSS HF-2 Hi Band Flanger](https://www.youtube.com/watch?v=yBEG16YDM3o)
+
+- #### 26:00
+> ### 宅録でフィードバック
+> [【試奏動画】BOSS DF-2 SUPER Feedbaker & Distortion](https://www.youtube.com/watch?v=stzTGrEO6Lc)
+
+- #### 30:00
+> ### [『フリップフラッパーズ』週替わり特別上映決定！](http://flipflappers.com/news/#170124)
+
+- #### 32:00
+> ### [小林さんちのメイドラゴン](http://maidragon.jp/)
+> [亜人ちゃんは語りたい](http://demichan.com/)
+
+- #### 45:00
+> ### [「シューゲイザー女の子」イラスト/まつだひかり](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=59884342)
+
+- #### 56:00
+> ### [こいち時間 -koichizikan-: <br>「ギターをつくろう その1(図面作成・材料調達)」](http://koichizikan.seesaa.net/article/440070934.html)
+
+- #### 1:22:00
+> ### [クリックは友達](https://goo.gl/Wk4391)
+> [Radiohead - Knives Out](https://www.youtube.com/watch?v=2Lpw3yMCWro)
+
+- #### 1:28:00
+> ### [CHON - Puddle - Audiotree Live](https://www.youtube.com/watch?list=PLunIrIqYqs79boxSMyxao7XQxY8cqUCu9&v=iYrUwWq6KO8)
+
+- #### 1:30:00
+> ### 中野さんのエフェクタープレゼント企画について
+> [Twitterにて #viewtorino と #nakanoise にてPodcastの感想などをtweetしていただいた方の中から１名様に、中野さんのIbanez DE-7を贈呈します。<br>応募はこちらから！！](https://twitter.com/intent/tweet?hashtags=viewtorino,nakanoise&url={{ site.url }})
