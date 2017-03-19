@@ -1,0 +1,58 @@
+.u-cf::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+@mixin m-cf {
+	&::after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+}
+
+@mixin m-flex {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+@mixin m-link {
+	transition: opacity 0.6s;
+	&:hover {
+		opacity: .5;
+	}
+}
+
+@mixin m-link-text {
+	color: $color-sub;
+  &:hover {
+    text-decoration: underline;;
+  }
+}
+
+@mixin m-btn-podcast {
+	&:before {
+		content: "\f179";
+		font-family: FontAwesome;
+		margin-right: 0.5rem;
+	}
+}
+
+@mixin m-btn-android {
+  &:before {
+    content: "\f17b";
+    font-family: FontAwesome;
+    margin-right: 0.5rem;
+  }
+}
+
+@mixin m-btn-rss {
+	&:before {
+		content: "\f09e";
+		font-family: FontAwesome;
+		margin-right: 0.5rem;
+	}
+}

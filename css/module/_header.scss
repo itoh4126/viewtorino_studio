@@ -51,19 +51,42 @@
         width: 50vw;
         margin: auto;
       }
+      svg {
+        .cls-1, .cls-2 {
+          fill: none;
+          stroke: $color-text;
+          stroke-miterlimit: 10;
+        }
+      }
+    }
+
+    .ac30 {
+      @include m-flex;
+      -webkit-box-align: center;
+      align-items: center;
+      width: 280px;
+      height: auto;
+      // padding: 6px 16px;
+      @media #{$small} {
+        width: 50vw;
+        margin: auto;
+      }
+      svg {
+        #grill .st3 {
+          stroke: $color-sub;
+        }
+        .stars {
+          fill: $color-bg;
+        }
+      }
     }
 
      svg {
       height: auto;
-      fill: $color-text;
       max-height: 300px;
+      fill: $color-text;
       @media #{$small} {
         max-height: 50vh
-      }
-      .cls-1, .cls-2 {
-        fill: none;
-        stroke: $color-text;
-        stroke-miterlimit: 10;
       }
     }
   }
