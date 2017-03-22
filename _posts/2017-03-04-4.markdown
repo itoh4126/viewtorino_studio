@@ -60,3 +60,4 @@ size: 46489371
 - #### 1:30:00
 > ### 中野さんのエフェクタープレゼント企画について
 > [Twitterにて #viewtorino と #nakanoise にてPodcastの感想などをtweetしていただいた方の中から１名様に、中野さんのIbanez DE-7を贈呈します。<br>応募はこちらから！！](https://twitter.com/intent/tweet?hashtags=viewtorino,nakanoise&url={{ site.url }})
+> [今回のVT-STUDIO Podcastの前編と後編を聴いていただき、ハッシュタグ(#viewtorino #nakanoise)を付けてコメント(感想などなんでも)をツイートしていただいた方の中から1名に僕が使っていたDE7というエフェクター(ディレイ、エコー)をお贈りします。](https://twitter.com/nakanoise/status/843434057597779968)
