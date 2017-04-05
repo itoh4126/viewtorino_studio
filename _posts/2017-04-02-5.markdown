@@ -1,0 +1,53 @@
+---
+layout: article
+title: 第5話 「若原・スペンサー・英梨々」
+date: 2017-04-02 22:00:00 +0900
+voice_ids:
+  - itoh
+  - ogata
+  - wkhr
+description: wkhrを交えて3人で、エイプリルフール、百合展、ななしのアステリズム、冴えない彼女の育てかた、エモさとぶちかましなどについて話しました。
+duration: "00:00"
+file: /rec/20170402.mp3
+size: 22846642
+---
+
+## 参照
+
+- #### 00:00
+> ### [オタクアイコンでのSkype会議の様子]({{ site.url }}/images/ep5_01.png)
+
+- #### 02:00
+> ### [ねこねこソフト Official HomePage](www.din.or.jp/~nekoneko/)
+
+- #### 05:00
+> ### [百合展](http://www.yuriten.com/2017/)
+
+- #### 08:00
+> ### [アフターアワーズ](http://amzn.asia/dWhlpPK)
+
+- #### 08:30
+> ### [ななしのアステリズム](http://www.ganganonline.com/contents/nanashino/)
+
+- #### 12:30
+> ### [Liar-soft＆raiL-softさんのツイート: "【速報】「屋上の百合霊さん」フルボイス化計画始動！ タイトル５周年を控え、とい天津氏と会合、決定しました！／詳細は後日ご報告いたします！ぜひフォローを宜しくお願い申し上げます！](https://twitter.com/liar_railsoft/status/845205907331989505)
+
+- #### 14:00
+> ### [赤玉スイートワイン サントリー](http://www.suntory.co.jp/wine/original/akadama/)
+
+- #### 16:30
+> ### [MdN2017年5月号 若きアニメスタジオ「トリガー」の5年半史](http://www.mdn.co.jp/di/MdN/)
+
+- #### 20:30
+> ### [TVアニメ『冴えない彼女の育てかた♭』公式サイト](http://www.saenai.tv/)
+> [Oasis - Rock 'N' Roll Star](https://www.youtube.com/watch?v=3aatEBIZHNU)
+
+- #### 25:30
+> ### [MAD PROFESSOR Blueberry Bass Overdrive](http://www.mpamp.com/factory-pedals/blueberry-bass-overdrive/)
+
+- #### 30:30
+> ### [地獄のベーシック・トレーニング・フレーズ](http://amzn.asia/hkH4o8h)
+
+- #### 37:00
+> ### [viewtorino - Little by Little](https://soundcloud.com/viewtorino/little-by-little)
+> [Kensei Ogata - Little by Little "Live at 下北沢DaisyBar" ](https://www.youtube.com/watch?v=8tnvio7LlvY)
