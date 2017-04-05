@@ -18,7 +18,7 @@ size: 22846642
 > ### [オタクアイコンでのSkype会議の様子]({{ site.url }}/images/ep5_01.png)
 
 - #### 02:00
-> ### [ねこねこソフト Official HomePage](www.din.or.jp/~nekoneko/)
+> ### [ねこねこソフト Official HomePage](http://www.din.or.jp/~nekoneko/)
 
 - #### 05:00
 > ### [百合展](http://www.yuriten.com/2017/)
