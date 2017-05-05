@@ -48,6 +48,9 @@ voices:
   koichizikan:
     name: こいち
     url: https://twitter.com/koichizikan
+  hasisisissy:
+    name: hasisisissy
+    url: https://twitter.com/hasisisissy
 
 # Build settings
 language: ja
