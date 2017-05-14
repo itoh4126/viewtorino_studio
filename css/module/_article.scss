@@ -71,7 +71,10 @@
 				-webkit-flex: auto;
 				flex: auto;
 				box-sizing: border-box;
-				padding: 1rem
+				padding: 1rem;
+				@media #{$small} {
+					width: 50%;
+				}
 			}
 			.item-url {
 				display: inline-block;
@@ -85,6 +88,9 @@
 				&:hover {
 					background: $color-text;
 					color: $color-bg;
+				}
+				@media #{$small} {
+					font-size: 1.2rem;
 				}
 			}
 		}
