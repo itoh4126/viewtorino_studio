@@ -1,173 +1,20 @@
 .article-content-md {
 
-	> ul {
-		line-height: 1.4em;
-		list-style: none;
-		margin: 0;
-		padding: 0;
-		width: 100%;
+  ul {
+    list-style: disc;
+    padding-left: 1rem;
+  }
+  li {
+    margin-bottom: .8rem;
+    padding-left: .5rem;
+  }
+  a {
+    border-bottom: 1px dotted;
+		text-decoration: none;
+    transition: border-color .2s ease-in-out, color .2s ease-in-out;
+    &:hover {
+      border-color: transparent;
+      color: $color-main;
+    }
 	}
-
-	> ul > li {
-		padding-top: 5px;
-		padding-left: 30px;
-		position: relative;
-		// &:last-child {
-		//   padding-bottom: 0;
-		// }
-	}
-
-	h4 {
-		font-size: 12px;
-		font-weight: 700;
-		letter-spacing: 0.05rem;
-		margin: 0 0 .5em 0;
-		text-transform: uppercase;
-		white-space: nowrap;
-	}
-
-	.marker {
-		position: absolute;
-		top: 0;
-		bottom: 0;
-		left: 0;
-		width: 15px;
-		&:before {
-			background: $color-sub;
-			border: 3px solid transparent;
-			border-radius: 100%;
-			content: "";
-			display: block;
-			height: 15px;
-			position: absolute;
-			top: 4px;
-			left: -3px;
-			width: 15px;
-			transition: background 0.3s ease-in-out,
-			border 0.3s ease-in-out;
-		}
-		&:after {
-			content: "";
-			width: 3px;
-			background: $color-main;
-			display: block;
-			position: absolute;
-			top: 24px;
-			bottom: 0;
-			left: 6px;
-		}
-	}
-	> ul > li:last-child .marker:after {
-		content: none;
-	}
-	> ul > li:not(.period):hover .marker:before {
-		background: transparent;
-		border: 3px solid $color-sub;
-	}
-
-	blockquote {
-		letter-spacing: -0.05rem;
-		padding-bottom: 40px;
-		&:last-child {
-			margin-bottom: 0;
-		}
-
-		a {
-			@include m-link;
-			display: inline-block;
-			&:before {
-				display: inline-block;
-				content: "\f14c";
-				font-family: FontAwesome;
-				margin-right: 0.5rem;
-			}
-		}
-		p {
-			a {
-				padding: 0.3rem 0 0 2rem;
-				color: $color-sub;
-				font-size: 1.2rem;
-				&:before {
-					content: "\f08e";
-				}
-			}
-		}
-	}
-
-	> ul {
-		@media #{$medium} {
-			display: table;
-			> li {
-				display: table-row;
-				padding: 0;
-			}
-			h4,
-			.marker,
-			blockquote {
-				display: table-cell;
-				vertical-align: top;
-			}
-			.marker {
-				position: relative;
-			}
-			blockquote {
-				padding-left: 30px;
-			}
-			h4 {
-				padding-right: 30px;
-			}
-		}
-		@media #{$large} {
-			&,
-			> li,
-			h4,
-			.marker,
-			blockquote {
-				display: block;
-				margin: 0;
-				padding: 0;
-			}
-			> li {
-				padding-bottom: 40px;
-				overflow: hidden;
-			}
-			.marker {
-				position: absolute;
-				left: 50%;
-				margin-left: -7.5px;
-			}
-			h4,
-			blockquote {
-				width: 50%;
-				padding-top: 4px;
-			}
-			> li:nth-child(odd) h4 {
-				float: left;
-				text-align: right;
-				padding-right: 30px;
-			}
-			> li:nth-child(odd) blockquote {
-				float: right;
-				text-align: left;
-				padding-left: 30px;
-				p a {
-					padding: 0.3rem 0 0 2rem;
-				}
-			}
-			> li:nth-child(even) h4 {
-				float: right;
-				text-align: left;
-				padding-left: 30px;
-			}
-			> li:nth-child(even) blockquote {
-				float: left;
-				text-align: right;
-				padding-right: 30px;
-				p a {
-					padding: 0.3rem 0 0 0;
-				}
-			}
-		}
-	}
-
 }

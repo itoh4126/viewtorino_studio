@@ -15,43 +15,18 @@ size: 38140192
 
 ## 参照
 
-- #### 01:00
-> ### [レトロ印刷JAM](http://jam-p.com/)
-
-- #### 04:40
-> ### [はしししっし:ﾃｨｱ【く60a】さんのツイート: "なんてことを思い出しながら描いたやつ"](https://t.co/2RfPaLPPTK)
-> [Thee Oh Sees - Full Performance (Live on KEXP) ](https://www.youtube.com/watch?v=FrMacbbLxuc)
-
-- #### 09:00
-> ### [はしししっし:ﾃｨｱ【く60a】さんのツイート: "明日5月6日（土）のCOMITIA120、出せるもの一冊しかないですがお品書きです。"](https://twitter.com/hasisisissy/status/860410961168965632)
-
-- #### 13:00
-> ### [Kensei Ogataさんのツイート: "Kensei Ogata Band 6月は2本ライブが決まっています！"](https://twitter.com/CuddlyDominion/status/853611243231256577)
-
-- #### 20:00
-> ### [ベスト･アニメ100投票結果発表｜ニッポンアニメ100｜NHK](http://www.nhk.or.jp/anime/anime100/ani_report/)
-
-- #### 23:00
-> ### [エロマンガ先生](http://eromanga-sensei.com/)
-
-- #### 35:30
-> ### [P.A.WORKS](http://www.pa-works.jp/)
-> [SHIROBAKO](http://shirobako-anime.com/)  
-> [凪のあすから](http://nagiasu.jp/)
-
-- #### 44:30
-> ### [新海誠さんのツイート: "板タブレットとAstropad（iPadを液晶タブレット化するアプリ）の併用、便利かも。"](https://twitter.com/shinkaimakoto/status/858948635987386368)
-
-- #### 49:00
-> ### [Wallpaper Engine](http://store.steampowered.com/app/431960/Wallpaper_Engine/)
-
-- #### 51:30
-> ### [継続高校漫画『ラップランドの空の下』](https://twitter.com/i/moments/788236435606212608)
-> [@fudfudddd](https://twitter.com/fudfudddd)  
-> [@omu001](https://twitter.com/omu001)
-
-- #### 58:30
-> ### [ガールズ&パンツァー　劇場版（上）](http://amzn.asia/7pPScNq)
-
-- #### 1:02:00
-> ### [夏めろ](http://www.acaciasoft.jp/product/natsumero/)
+* [レトロ印刷JAM](http://jam-p.com/)
+* [はしししっし:ﾃｨｱ【く60a】さんのツイート: "なんてことを思い出しながら描いたやつ"](https://t.co/2RfPaLPPTK)
+  * [Thee Oh Sees - Full Performance (Live on KEXP) ](https://www.youtube.com/watch?v=FrMacbbLxuc)
+* [はしししっし:ﾃｨｱ【く60a】さんのツイート: "明日5月6日（土）のCOMITIA120、出せるもの一冊しかないですがお品書きです。"](https://twitter.com/hasisisissy/status/860410961168965632)
+* [Kensei Ogataさんのツイート: "Kensei Ogata Band 6月は2本ライブが決まっています！"](https://twitter.com/CuddlyDominion/status/853611243231256577)
+* [ベスト･アニメ100投票結果発表｜ニッポンアニメ100｜NHK](http://www.nhk.or.jp/anime/anime100/ani_report/)
+* [エロマンガ先生](http://eromanga-sensei.com/)
+* [P.A.WORKS](http://www.pa-works.jp/)
+* [SHIROBAKO](http://shirobako-anime.com/)  
+* [凪のあすから](http://nagiasu.jp/)
+* [新海誠さんのツイート: "板タブレットとAstropad（iPadを液晶タブレット化するアプリ）の併用、便利かも。"](https://twitter.com/shinkaimakoto/status/858948635987386368)
+* [Wallpaper Engine](http://store.steampowered.com/app/431960/Wallpaper_Engine/)
+* [継続高校漫画『ラップランドの空の下』](https://twitter.com/i/moments/788236435606212608)
+* [ガールズ&パンツァー　劇場版（上）](http://amzn.asia/7pPScNq)
+* [夏めろ](http://www.acaciasoft.jp/product/natsumero/)

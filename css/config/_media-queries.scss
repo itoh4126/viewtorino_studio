@@ -1,21 +1,17 @@
 @charset "UTF-8";
 
-$small:  "only screen and (max-width: 640px)";
-$medium: "only screen and (min-width: 641px) and (max-width: 959px)";
-$large:  "only screen and (min-width: 960px)";
+$small:  "only screen and (min-width: 768px)";
+$medium: "only screen and (min-width: 992px)";
+$large:  "only screen and (min-width: 1200px)";
 
 .none-pc {
-  @media #{$large} {
-    display: none;
-  }
-}
-.none-tab {
-  @media #{$medium} {
+  @media #{$small} {
     display: none;
   }
 }
 .none-sp {
+  display: none;
   @media #{$small} {
-    display: none;
+    display: inline
   }
 }

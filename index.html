@@ -2,30 +2,30 @@
 layout: top
 ---
 
-<div class="section main">
+<main role="main">
 
-    <main class="container" role="main">
+  <div class="container">
 
-      <article class="post">
+    <article class="post">
 
-        {% for post in site.posts %}
-        <section class="post-content">
-          <a href="{{ post.url }}">
-            <h1 class="post-content-header">
-              {{ post.title }}
-            </h1>
-            <div class="post-content-date">
-              {{ post.date | date: "%B %d, %Y" }}
-            </div>
-            <p class="post-content-description">
-              {{ post.description }}
-            </p>
-          </a>
-          </section>
-        {% endfor %}
+      {% for post in site.posts %}
+      <section class="post-content">
+        <a href="{{ post.url }}">
+          <h1 class="post-content-header">
+            {{ post.title }}
+          </h1>
+          <div class="post-content-date">
+            {{ post.date | date: "%B %d, %Y" }}
+          </div>
+          <p class="post-content-description">
+            {{ post.description }}
+          </p>
+        </a>
+        </section>
+      {% endfor %}
 
-      </article>
+    </article>
 
-    </main>
+  </div>
 
-</div>
+</main>

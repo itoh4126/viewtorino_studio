@@ -19,68 +19,28 @@ size: 71589880
 
 ## 参照
 
-- #### 00:00
-> ### [工房path](http://www.path-guitarbassandfx.com/)
-
-- #### 00:00
-> ### [tiny sounds](https://twitter.com/tsoundsrepair)
-
-- #### 10 :00
-> ### [ギター・マガジン 2015年11月号](http://www.rittor-music.co.jp/magazine/gm/15111011.html)
-
-- #### 16:00
-> ### [NHK プロフェッショナル 仕事の流儀](http://www.nhk.or.jp/professional/)
-
-- #### 21:00
-> ### Fender USA Elvis Costello Jazzmaster
-> [Jessica Dobson](https://www.youtube.com/watch?v=Zep4OmVUrNc)  
-> [ギターの写真と解説 (cinema staff)](http://www.rittor-music.co.jp/1on1/guitar-Cinema.html)
-
-- #### 25:30
-> ### [Kensei Ogataさんのツイート: "仙川の工房Pathさんにて新しいギターを作ってもらいました！"](https://goo.gl/gq6sYS)
-> [Special Mustangでのライブ映像](https://www.youtube.com/watch?v=8tnvio7LlvY)  
-> [コイデさんの65年製 Fender Mustang](https://twitter.com/yappari_strat/status/834414307160907777)  
-> [Fender Lead](https://goo.gl/wN1ThW)
-
-- #### 30:00
-> ### [Graph Tech - TUSQ](http://moridaira.jp/graph-tech/tusq-gt)
-
-- #### 39:30
-> ### [工房Path製作の面シム](https://instagram.com/p/BK988aZAaW5/)
-> [Freedom Custom Guitar Research<br>- Tone Shift Plate SP-JP-03](http://www.soundhouse.co.jp/products/detail/item/16032/)
-
-- #### 45:00
-> ### [こいちさん製作の7弦ギター](koichizikan.seesaa.net/s/article/445395491.html)
-> [aimoku｜楽器の木材用材の販売加工](http://www.aimokukakou.jp/)
-> [ギターをつくろう その8(ヘッドロゴ作成)](http://koichizikan.seesaa.net/article/443893275.html)
-
-- #### 52:30
-> ### Mustang (Kensei Ogata Special)
-
-- #### 54:00
-> ### Fender Mustang 65' (original)
-
-- #### 57:00
-> ### Fender USA Elvis Costello Jazzmaster
-
-- #### 1:06:00
-> ### [Electro-Harmonix Sovtek Civil War Big Muff](http://equipboard.com/items/electro-harmonix-sovtek-civil-war-big-muff)
-
-- #### 1:09:00
-> ### [Electro-Harmonix Big Muff Pi Ram's Head](http://equipboard.com/items/electro-harmonix-big-muff-pi-ram-s-head)
-
-- #### 1:13:00
-> ### [RumCokeMuff-SP - flyingteapot](https://www.flyingteapot.jp/rumcokemuff-sp/#cc-m-product-11060453972)
-
-- #### 1:16:00
-> ### [Electro-Harmonix Deluxe Big Muff](http://thetonebender.blogspot.jp/2011/11/j-mascis-part-2.html?m=1)
-
-- #### 1:21:00
-> ### [Ibanez SOUNDTANK SF5 60's FUZZ](http://koichizikan.seesaa.net/s/article/405698061.html)
-
-- #### 1:26:00
-> ### [軽音マガジン 2017 Vol.1](http://musicschool-navi.jp/columns/feature/keion_2017_v1_top.html)
-> [まことディストーション](https://twitter.com/niko9_niku9/status/837861251627700224)
-
-- #### 1:31:30
-> ### [ナカノイズのライブホウソウ Vol.11](http://com.nicovideo.jp/community/co1457642)
+* [工房path](http://www.path-guitarbassandfx.com/)
+* [tiny sounds](https://twitter.com/tsoundsrepair)
+* [ギター・マガジン 2015年11月号](http://www.rittor-music.co.jp/magazine/gm/15111011.html)
+* [NHK プロフェッショナル 仕事の流儀](http://www.nhk.or.jp/professional/)
+* [Fender USA Elvis Costello Jazzmaster](https://www.youtube.com/watch?v=fmW8uK1N8wk)
+  * [Jessica Dobson](https://www.youtube.com/watch?v=Zep4OmVUrNc)  
+  * [ギターの写真と解説 (cinema staff)](http://www.rittor-music.co.jp/1on1/guitar-Cinema.html)
+* [Kensei Ogataさんのツイート: "仙川の工房Pathさんにて新しいギターを作ってもらいました！"](https://goo.gl/gq6sYS)
+  * [Special Mustangでのライブ映像](https://www.youtube.com/watch?v=8tnvio7LlvY)  
+  * [コイデさんの65年製 Fender Mustang](https://twitter.com/yappari_strat/status/834414307160907777)  
+  * [Fender Lead](https://goo.gl/wN1ThW)
+* [Graph Tech - TUSQ](http://moridaira.jp/graph-tech/tusq-gt)
+* [工房Path製作の面シム](https://instagram.com/p/BK988aZAaW5/)
+  * [Freedom Custom Guitar Research<br>- Tone Shift Plate SP-JP-03](http://www.soundhouse.co.jp/products/detail/item/16032/)
+* [こいちさん製作の7弦ギター](koichizikan.seesaa.net/s/article/445395491.html)
+  * [aimoku｜楽器の木材用材の販売加工](http://www.aimokukakou.jp/)
+  * [ギターをつくろう その8(ヘッドロゴ作成)](http://koichizikan.seesaa.net/article/443893275.html)
+* [Electro-Harmonix Sovtek Civil War Big Muff](http://equipboard.com/items/electro-harmonix-sovtek-civil-war-big-muff)
+* [Electro-Harmonix Big Muff Pi Ram's Head](http://equipboard.com/items/electro-harmonix-big-muff-pi-ram-s-head)
+* [RumCokeMuff-SP - flyingteapot](https://www.flyingteapot.jp/rumcokemuff-sp/#cc-m-product-11060453972)
+* [Electro-Harmonix Deluxe Big Muff](http://thetonebender.blogspot.jp/2011/11/j-mascis-part-2.html?m=1)
+* [Ibanez SOUNDTANK SF5 60's FUZZ](http://koichizikan.seesaa.net/s/article/405698061.html)
+* [軽音マガジン 2017 Vol.1](http://musicschool-navi.jp/columns/feature/keion_2017_v1_top.html)
+  * [まことディストーション](https://twitter.com/niko9_niku9/status/837861251627700224)
+* [ナカノイズのライブホウソウ Vol.11](http://com.nicovideo.jp/community/co1457642)

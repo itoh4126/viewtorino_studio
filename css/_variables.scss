@@ -35,9 +35,9 @@ $color-twitter:  #00aced;
 }
 
 @mixin m-link {
-	transition: opacity 0.6s;
+	transition: opacity .2s ease;
 	&:hover {
-		opacity: .5;
+		opacity: .6;
 	}
 }
 

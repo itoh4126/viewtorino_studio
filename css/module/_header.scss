@@ -1,101 +1,19 @@
 @charset "UTF-8";
 
-.header {
+header {
 
-  .top & {
-    padding: 0;
+  .container {
   }
-  @media #{$small} {
-    padding: 2rem 0;
-  }
-
-  .jumbotron {
-    @include m-flex;
-    @media #{$small} {
-      flex-direction : column-reverse !important;
-    }
-
-    &-ttl {
-      @include m-font-s;
-      @include m-flex;
-      align-items: center;
-      font-size: 10rem;
-      font-weight: bold;
-      text-transform: uppercase;
-      margin: 32px auto;
-      @media #{$small} {
-        display: block;
-        font-size: 4rem;
-        text-align: center;
-        margin: 0 auto 8px;
-        padding: 0;
-        &:after {
-          display: block;
-          content: '';
-          width: 80px;
-          height: 5px;
-          margin: 1rem auto 0.5rem;
-          background: $color-text;
-        }
-      }
-    }
-
-    .rick {
-      @include m-flex;
-      -webkit-box-align: center;
-      align-items: center;
-      width: 280px;
-      height: auto;
-      // padding: 6px 16px;
-      @media #{$small} {
-        width: 50vw;
-        margin: auto;
-      }
-      svg {
-        .cls-1, .cls-2 {
-          fill: none;
-          stroke: $color-text;
-          stroke-miterlimit: 10;
-        }
-      }
-    }
-
-    .ac30 {
-      @include m-flex;
-      -webkit-box-align: center;
-      align-items: center;
-      width: 280px;
-      height: auto;
-      // padding: 6px 16px;
-      @media #{$small} {
-        width: 50vw;
-        margin: auto;
-      }
-      svg {
-        #grill .st3 {
-          stroke: $color-sub;
-        }
-        .stars {
-          fill: $color-bg;
-        }
-      }
-    }
-
-     svg {
-      height: auto;
-      max-height: 300px;
-      fill: $color-text;
-      @media #{$small} {
-        max-height: 50vh
-      }
-    }
-  }
+  color: $color-bg;
 
 }
 
 .site-description {
   padding: 1rem 0 0;
+  margin-bottom: 40px;
   text-align: center;
+  font-weight: 600;
+  
   h1 {
     color: $color-sub;
     font-size: 1.4rem;
@@ -109,34 +27,30 @@
   }
 }
 
-.mv {
+.header-content {
   @include m-flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
 
   &-ttl {
-    display: block;
     @include m-font-s;
     @include m-flex;
     @include m-link;
     -webkit-box-align: center;
     align-items: center;
-    font-size: 5rem;
     font-weight: bold;
     text-transform: uppercase;
-    @media #{$small} {
-      font-size: 2.4rem;
-      text-align: center;
-      margin: 0 auto 8px;
-      padding: 0;
-    }
+    font-size: 2.4rem;
+    padding: 0;
+
+    @media #{$small} { font-size: 5rem; }
+
     span {
       display: block;
       text-align: right;
       line-height: 4rem;
-      @media #{$small} {
-        line-height: 2rem;
-      }
+
     }
+
     em {
       display: block;
       font-size: 1.0rem;
@@ -151,53 +65,17 @@
     -webkit-box-align: center;
     align-items: center;
     height: auto;
-    padding: 6px 16px;
-    max-width: 200px;
+    max-width: 140px;
     @media #{$small} {
-      max-width: 36vw;
-      margin: 0;
+      max-width: 200px;
     }
   }
 
   svg {
-    @media #{$large} {
-      max-height: 100px;
-    }
-    @media #{$small} {
-      max-height: 80px;
-    }
+    max-height: 80px;
+    @media #{$small} { max-height: 100px; }
     .cls-1, .cls-2, .cls-3, .cls-4 {
-      stroke: $color-text;
+      stroke: $color-bg;
     }
-  }
-}
-
-
-@mixin animationFunc( $name, $duration, $function, $delay, $count, $direction){
-    -webkit-animation: $name $duration+ms $function $delay+ms $count $direction;
-    animation: $name $duration+ms $function $delay+ms $count $direction;
-}
-
-.jumbotron .rick #strings .cls-2 {
-  opacity: 0;
-  fill: $color-text;
-}
-
-@for $note from 1 through 12{
-    #string-#{$note}{
-        @include animationFunc(plectrum, 400, ease, $note * 50 + 800 , 1, forwards);
-    }
-}
-@mixin keyframes($name) {
-  @-webkit-keyframes #{$name} {
-    @content;
-  }
-  @keyframes #{$name} {
-    @content;
-  }
-}
-@include keyframes(plectrum) {
-  100% {
-    opacity: 1;
   }
 }
