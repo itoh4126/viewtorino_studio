@@ -1,0 +1,28 @@
+---
+layout: article
+title: 第8話「Definition of Britpop」
+date: 2017-08-06 16:00:00 +0900
+voice_ids:
+  - ogata
+  - itoh
+  - niwa
+description: Niwaさんを交えて3人で、oasis、天使の3P！、プリンセス・プリンシパル、ブリットポップなどについて話しました。
+duration: "00:00"
+file: /rec/20170806.mp3
+size: 42249812
+---
+
+## 参照
+
+* [snoozer presents『The Essential Disc Guide 2004』](http://www.littlemore.co.jp/store/products/detail.php?product_id=295)
+* [『oasis FUJI ROCK FESTIVAL'09』オフィシャルサイト](http://oasis-frf09.jp/)
+* [Familiar to Millions](http://amzn.asia/fO2toxF)
+* [天使の3P！（スリーピース）』公式サイト](http://www.tenshi-no-3p.com/)
+* [プリンセス・プリンシパル](http://www.pripri-anime.jp/)
+* [Creamery Pickups](http://www.creamery-pickups.co.uk/)
+* [Radiohead’s Ed O’Brien Announces Signature Guitar](https://pitchfork.com/news/radioheads-ed-obrien-announces-signature-guitar/)
+  * [Supergrass - Alright (live)](https://www.youtube.com/watch?v=2XhgSetZBVY)
+  * [Soft Boys (live) - April 4th, 2001, Crocodile Cafe, Seattle, WA (JEMS Archive)](https://www.youtube.com/watch?v=f-vKhsQ52HA)
+* [タナソーbot（非公式）さんのツイート: 巷でよく使われる「UKロック」という言葉が、僕はかなり嫌いだ。…](https://twitter.com/tanaso_bot/status/672630741541384193)
+* [ブリットポップ・ミュージシャンの一覧 - Wikipedia](https://goo.gl/j4Y6LE)
+* [switchbreak official website](https://switchbreakinfo.github.io/)

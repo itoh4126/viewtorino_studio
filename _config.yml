@@ -33,6 +33,9 @@ voices:
   wkhr:
     name: wkhr
     url: https://twitter.com/wkhr2
+  niwa:
+    name: niwa
+    url: https://twitter.com/ssniwa
   midori:
     name: midori
     url: https://twitter.com/midori_aiueo

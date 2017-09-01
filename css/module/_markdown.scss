@@ -1,19 +1,18 @@
 .article-content-md {
 
   ul {
-    list-style: disc;
     padding-left: 1rem;
+    list-style: disc;
   }
   li {
-    margin-bottom: .8rem;
     padding-left: .5rem;
   }
   a {
-    border-bottom: 1px dotted;
+    display: inline-block;
+    margin-bottom: .8rem;
 		text-decoration: none;
-    transition: border-color .2s ease-in-out, color .2s ease-in-out;
+    transition: color .2s ease-in-out;
     &:hover {
-      border-color: transparent;
       color: $color-main;
     }
 	}

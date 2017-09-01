@@ -29,9 +29,9 @@ main {
 	.container {
 		background: $color-bg;
 
-		@media #{$small} { padding: 40px; }
-		@media #{$medium} { padding: 80px; }
-		@media #{$large} { padding: 120px; }
+		@media #{$small} { padding: 3.2rem 4rem; }
+		@media #{$medium} { padding: 6rem 8rem; }
+		@media #{$large} { padding: 10rem 12rem; }
 	}
 }
 
@@ -44,9 +44,6 @@ main {
 }
 
 .post {
-	@media #{$large} {
-		margin: 0 0 2rem;
-	}
 	&-content:not(:last-child) {
 		margin-bottom: 0;
 	}
@@ -55,12 +52,17 @@ main {
 .post-content {
 	a {
 		display: block;
-		padding: 2rem 0;
-		margin: 0;
+		margin-bottom: 2rem;
 		transition: opacity .2s;
+		@media #{$small} {
+			margin-bottom: 4rem;
+		}
 		&:hover {
 			opacity: .6;
 		}
+	}
+	&:last-child a {
+		margin-bottom: 0;
 	}
 
 	.post-content-header {
@@ -79,7 +81,7 @@ main {
 			font-size: 2.8rem;
 			}
 		}
-	
+
 	.post-content-date {
 		color: $color-sub;
 		@include m-font-s;
