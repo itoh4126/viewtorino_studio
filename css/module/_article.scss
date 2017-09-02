@@ -24,20 +24,14 @@
 		text-align: center;
 	}
 	
-	&-description {
-		padding: 2rem;
-		background: $color-light;
-		border-radius: 4px;
+	&-description {		
+		@include m-font-min;
+		border-left: 5px solid $color-light;
+		padding: 1rem 0 1rem 2rem;
 		font-size: 1.2rem;
-		font-weight: 600;
 		@media #{$small} {
 			font-size: 1.6rem;
 			line-height: 2.4rem;
-		}
-
-		&:first-letter {
-			font-size: 200%;
-			text-transform: uppercase;
 		}
 	}
 

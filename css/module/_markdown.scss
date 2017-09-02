@@ -1,4 +1,5 @@
 .article-content-md {
+  @include m-font-min;
 
   ul {
     padding-left: 1rem;
@@ -8,8 +9,7 @@
     padding-left: .5rem;
   }
   a {
-    display: inline-block;
-    margin-bottom: .8rem;
+    line-height: 2.8;
 		text-decoration: none;
     transition: color .2s ease-in-out;
     &:hover {

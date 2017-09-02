@@ -43,6 +43,9 @@ $font-sub: "Avenir Next", "Helvetica Neue", Hiragino Sans, "Hiragino Kaku Gothic
   font-family: "Avenir Next";
 	text-transform: uppercase;
 }
+@mixin m-font-min {
+  font-family: Times New Roman, "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", Hiragino Mincho ProN, serif;  
+}
 
 html {
 	font-size: 62.5%;
