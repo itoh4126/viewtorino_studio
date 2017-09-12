@@ -15,9 +15,8 @@ body {
 	margin: 0 auto;
 	padding: 20px;
 
-  @media #{$small} { width: 750px; }
+  @media #{$small} { width: 680px; }
   @media #{$medium} {	width: 970px; }
-  @media #{$large} { width: 1170px; }
 }
 
 main {

@@ -18,15 +18,14 @@ footer {
 	
 	
   .footer-feed {
-		@media #{$small} {width: 45%;	}
-		// @media #{$medium} {width: 30%;}
+		@media #{$small} {width: 40%;	}
 	}
 	.footer-info {
 		margin-bottom: 3rem;
 		text-align: center;
 		font-size: 1.2rem;
 		
-		@media #{$small} { width: 55%; }
+		@media #{$small} { width: 60%; }
 		@media #{$large} { font-size: 1.4rem; }
 		p { letter-spacing: -.05rem; }
 		a {
