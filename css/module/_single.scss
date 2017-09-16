@@ -29,22 +29,26 @@
 		}
 	}
 
-	p {
-		margin-bottom: 1rem;
-		text-align: left;
-		@media #{$small} {
-			font-size: 1.25rem;
-			line-height: 2.2rem;
+	.content-item {
+
+		p {
+			@include m-font-min;			
+			margin-bottom: 1rem;
+			text-align: left;
+			font-size: 1.2rem;
+			line-height: 1.6;
+			@media #{$small} {
+				font-size: 1.4rem;
+			}
+		}
+	
+		a {
+			@include m-link;
+			text-decoration: underline;
+		}
+	
+		ul {
+			list-style-type: none;
 		}
 	}
-
-	a {
-		@include m-link;
-		text-decoration: underline;
-	}
-
-	ul {
-		list-style-type: none;
-	}
-
 }
