@@ -1,0 +1,22 @@
+---
+layout: article
+title: 第9話「☆☆☆」
+date: 2018-03-04 21:00:00 +0900
+voice_ids:
+  - itoh
+  - mikanima
+description: mikanimaさんと2人で、アニメや聖地巡礼について話しました。
+duration: "00:00"
+file: /rec/20180304.mp3
+size: 31341730
+---
+
+## 参照
+
+* [リズと青い鳥](http://liz-bluebird.com/)
+* [グリザイア ファントムトリガー](http://grisaia-pt.com/)
+* [六華苑](http://www.intsurf.ne.jp/~rokkam/)
+* [itoh4126｜flickr](https://www.flickr.com/photos/139644498@N07/)
+* [CDは手売り中心の時代に！M3-2014秋に行ってきた！ : 藤本健の“DTMステーション”](http://www.dtmstation.com/archives/51916891.html)
+* [Poaches Sincerely | switchbreak](https://switchbreak.bandcamp.com/album/poaches-sincerely)
+* [Authentic Techno Avenue 3/25(SUN)](https://twitter.com/dk_morinobear/status/962645849271513088)

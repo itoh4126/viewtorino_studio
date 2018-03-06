@@ -60,6 +60,9 @@ voices:
   tsounds:
     name: コイデ
     url: https://twitter.com/tsoundsrepair
+  mikanima:
+    name: mikanima
+    url: https://twitter.com/mikanima
 
 # Build settings
 language: ja
