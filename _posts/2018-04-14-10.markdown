@@ -1,0 +1,20 @@
+---
+layout: article
+title: 第10話「Someone Will Love You」
+date: 2018-04-14 14:00:00 +0900
+voice_ids:
+  - itoh
+  - ogata
+description: Kensei Ogata 新曲「Someone Will Love You」MV公開につき、録音や歌詞の書き方などを話しました。
+duration: "00:00"
+file: /rec/20180414.mp3
+size: 20966664
+---
+
+## 参照
+
+* [Someone Will Love You](https://www.youtube.com/watch?v=RwW2T2lePZQ)
+* [alicetales](http://alicetales.tumblr.com/)
+* [Hughes&Kettner Tube Rotosphere](https://www.youtube.com/watch?v=p76UNOX9CVU)
+* [Strymon Deco](https://www.strymon.net/deco/)
+* [Colour Box｜JHS Pedals](http://jhspedals.jp/guitar-pedals/2682)
