@@ -1,11 +1,7 @@
 @charset "UTF-8";
 
 header {
-
-  .container {
-  }
   color: $color-bg;
-
 }
 
 .site-description {
@@ -13,7 +9,7 @@ header {
   margin-bottom: 40px;
   text-align: center;
   font-weight: 600;
-  
+
   h1 {
     color: $color-sub;
     font-size: 1.4rem;
@@ -48,7 +44,6 @@ header {
       display: block;
       text-align: right;
       line-height: 4rem;
-
     }
 
     em {
@@ -62,6 +57,7 @@ header {
 
   .strawberry {
     @include m-flex;
+    @include m-link;
     -webkit-box-align: center;
     align-items: center;
     height: auto;
@@ -69,11 +65,20 @@ header {
     @media #{$small} {
       max-width: 200px;
     }
+
+    a {
+      display: contents;
+    }
   }
 
   svg {
+    display: block;
     max-height: 80px;
-    @media #{$small} { max-height: 100px; }
+    max-width: 140px;
+    @media #{$small} {
+      max-height: 100px;
+      max-width: none;
+    }
     .cls-1, .cls-2, .cls-3, .cls-4 {
       stroke: $color-bg;
     }
