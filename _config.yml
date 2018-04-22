@@ -63,6 +63,12 @@ voices:
   mikanima:
     name: mikanima
     url: https://twitter.com/mikanima
+  natsumi:
+    name: 夏海
+    url: https://twitter.com/milkan10_
+  maeda:
+    name: 前田佳祐
+    url: https://twitter.com/kmcnmanm
 
 # Build settings
 language: ja

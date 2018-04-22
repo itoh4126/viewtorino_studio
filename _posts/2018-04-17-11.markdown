@@ -1,0 +1,21 @@
+---
+layout: article
+title: 第11話「夏海さん&前田さんと、MV制作の話」
+date: 2018-04-17 20:00:00 +0900
+voice_ids:
+  - itoh
+  - ogata
+  - midori
+  - natsumi
+  - maeda
+description: Kensei Ogata 新曲「Someone Will Love You」公開につき、MV制作について話しました。
+duration: "00:00"
+file: /rec/20180417.mp3
+size: 32358794
+---
+
+## 参照
+
+* [Kensei Ogata「Someone Will Love You」](https://www.youtube.com/watch?v=RwW2T2lePZQ)
+* [ミスiD](https://miss-id.jp/)
+* [Balloon at dawn](http://balloonatdawn.tumblr.com/)
