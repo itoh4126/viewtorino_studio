@@ -1,0 +1,29 @@
+---
+layout: article
+title: 第12話「中村兄弟と、パワーポップの話」
+date: 2018-05-11 22:00:00 +0900
+voice_ids:
+  - itoh
+  - ogata
+  - midori
+  - kyosuke
+  - shuntaro
+description: Kensei Ogata 新作完成間近ということで、Recメンバーの kyosuke nakamura & shuntaro nakamura を交えて新作の制作秘話や最近良かった曲・漫画に関して話しました。
+duration: "00:00"
+file: /rec/20180511.mp3
+size: 64887124
+---
+
+## 参照
+
+* [Kensei Ogata「Someone Will Love You」](https://www.youtube.com/watch?v=RwW2T2lePZQ)
+* [The Four King Cousins - I Fell](https://www.youtube.com/watch?v=xgu3m2rKNq4)
+* [alicetales](http://alicetales.tumblr.com/)
+* [スタジオ"クルーソー"](http://studiocrusoe.tokyo/)
+* [The Aces「When My Heart Felt Volcanic」](https://itunes.apple.com/jp/album/when-my-heart-felt-volcanic/1343887484)
+* [Car Seat Headrest「Twin Fantasy」](https://itunes.apple.com/jp/album/twin-fantasy/1321633018)
+* [haruka nakamura「アイル - EP」](https://itunes.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%AB-ep/1356083100)
+* [彼こそポール・マッカートニーの後継者！24歳グラハム・アレキサンダー、こいつはとんでもない！／Graham Alexander日本デビュー盤『Graham Alexander』リリース特設サイト](http://powerpopacademy.com/grahamalexander)
+* [Jason Falkner「Presents Author Unknown」](https://itunes.apple.com/jp/album/presents-author-unknown/357818143)
+* [MGMT「Little Dark Age」](https://itunes.apple.com/jp/album/little-dark-age/1334814526)
+* [sugardrop  2018.5.12(土)吉祥寺のいちべえという所でライブします。](https://twitter.com/sugardrop_japan/status/994607291004420096)
