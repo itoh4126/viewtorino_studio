@@ -1,0 +1,23 @@
+---
+layout: article
+title: 第13話「Featuring Birds」
+date: 2018-06-17 19:00:00 +0900
+voice_ids:
+  - ogata
+  - itoh
+  - hasisisissy
+description: hasisisissyさんを交えて3人で、リズと青い鳥について話しました。
+duration: "00:00"
+file: /rec/20180617.mp3
+size: 49975177
+---
+
+## 参照
+
+* [リズと青い鳥](http://liz-bluebird.com)
+* [コワーキングスペース創荘-SOSO-](https://soso.works)
+* [2018-GWに観たもの - itoh4126](https://medium.com/itoh4126/2018-gw%E3%81%AB%E8%A6%B3%E3%81%9F%E3%82%82%E3%81%AE-e821457172ac)
+* [宇宙よりも遠い場所](http://yorimoi.com)
+* [Dead Funny Compilation Vol​.​1](http://deadfunnyrecords.bandcamp.com/album/dead-funny-compilation-vol-1)
+* [「リズと青い鳥」山田尚子×牛尾憲輔トーク「希美とみぞれは三拍子」](https://natalie.mu/comic/news/281868)
+* [猫の様子](https://www.instagram.com/lou_and_nico)
