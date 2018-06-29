@@ -8,7 +8,7 @@ voice_ids:
   - midori
   - kyosuke
   - shuntaro
-description: Kensei Ogata 新作完成間近ということで、Recメンバーの kyosuke nakamura & shuntaro nakamura を交えて新作の制作秘話や最近良かった曲・漫画に関して話しました。
+description: Kensei Ogata 新作完成間近ということで、Recメンバーの kyosuke nakamura と shuntaro nakamura を交えて新作の制作秘話や最近良かった曲・漫画に関して話しました。
 duration: "00:00"
 file: /rec/20180511.mp3
 size: 64887124
