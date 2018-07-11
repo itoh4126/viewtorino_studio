@@ -6,7 +6,7 @@ voice_ids:
   - itoh
   - ogata
   - wkhr
-description: wkhrを交えて3人で、エイプリルフール、百合展、ななしのアステリズム、冴えない彼女の育てかた、エモさとぶちかましなどについて話しました。
+description: wkhrを交えて3人で、エイプリルフール、百合展、冴えない彼女の育てかたなどについて話しました。
 duration: "00:00"
 file: /rec/20170402.mp3
 size: 22846642

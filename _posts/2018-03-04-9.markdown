@@ -5,7 +5,7 @@ date: 2018-03-04 21:00:00 +0900
 voice_ids:
   - itoh
   - mikanima
-description: mikanimaさんと2人で、アニメや聖地巡礼について話しました。
+description: mikanimaとアニメや聖地巡礼について話しました。
 duration: "00:00"
 file: /rec/20180304.mp3
 size: 31341730
