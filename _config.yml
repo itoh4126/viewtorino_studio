@@ -75,6 +75,9 @@ voices:
   shuntaro:
     name: shuntaro
     url: https://twitter.com/shuntakillsU
+  szak:
+    name: 松本文紀
+    url: /
 
 # Build settings
 language: ja

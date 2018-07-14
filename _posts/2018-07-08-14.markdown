@@ -1,0 +1,26 @@
+---
+layout: article
+title: 第14話「松本文紀さんと、竹槍の話」
+date: 2018-07-08 18:00:00 +0900
+voice_ids:
+  - ogata
+  - itoh
+  - szak
+description: 松本文紀さんをゲストに迎えて、素晴らしき日々や楽器作曲板、音楽制作・DTM音源などについて話しました。
+duration: "00:00"
+file: /rec/20180708.mp3
+size: 79159178
+---
+
+## 参照
+
+* [NUMBER GIRL　ZAZEN BOYSの音について語るスレ　まとめサイト](https://www3.atwiki.jp/yayoi841/)
+* [ROOM841](http://room841.jugem.jp/)
+* [Hollywood Orchestra - EastWest](https://h-resolution.com/product/hollywood-orchestra)
+* [Kensei Ogata - pixivFANBOX](https://www.pixiv.net/fanbox/creator/3687670)
+* [素晴らしき日々～不連続存在～ フルボイスHD版](https://www.keromakura.net/)
+* [素晴らしき日々 コンピレーションアルバム](http://jabberwocksounds.tumblr.com/post/27559140714/07-20-2012-1999)
+* [グリザイア ファントムトリガー｜Frontwing](http://grisaia-pt.com/)
+* [Alicia's Keys - Native Instruments](https://www.native-instruments.com/jp/products/komplete/keys/alicias-keys/)
+* [noma＠一日目西ひ20aさんのツイート: "C94スペース頂けました。配置は「金曜日　西地区“ひ”ブロック－20a」になります。オリジナル楽曲を制作予定です。よろしくお願い致します… "](https://twitter.com/a_Jaggy_Snake/status/1005395318886707200)
+* [はな×うさ 1stワンマンライブ『FLOWER PARK』＋『RABBIT HOLE』](http://forest.lovepop.jp/liveforest2018/)
