@@ -78,6 +78,9 @@ voices:
   szak:
     name: 松本文紀
     url: /
+  idouk:
+    name: 移動教室
+    url: https://twitter.com/sukubaha
 
 # Build settings
 language: ja

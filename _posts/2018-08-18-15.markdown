@@ -1,0 +1,22 @@
+---
+layout: article
+title: 第15話「移動教室先生の自意識と健康の話」
+date: 2018-08-18 21:00:00 +0900
+voice_ids:
+  - ogata
+  - itoh
+  - wkhr
+  - idouk
+description: 移動教室先生とviewtorinoの4人で、ギターのイラストやVTuber、健康面について話しました。
+duration: "00:00"
+file: /rec/20180818.mp3
+size: 68663332
+---
+
+## 参照
+
+* [「移動教室」のプロフィール [pixiv]](https://www.pixiv.net/member.php?id=11483557)
+* [移動教室 - 最近の作品1](https://twitter.com/sukubaha/status/1020994073304346624)
+* [移動教室 - 最近の作品2](https://twitter.com/sukubaha/status/1018461963486052353)
+* [viewtorino - viewpoint（旧HPのヘッダー画像）](http://viewtorino.com/viewpoint/#member)
+* [vitantonio - ヨーグルトメーカー VYG-11](https://www.vitantonio.jp/products/kitchen-goods/VYG-11.html)
