@@ -24,8 +24,8 @@ size: 52140660
 * [Wren and Cuff / White Elk Small Foot — LEP INTERNATIONAL](https://www.lep-international.jp/home/2017/7/28/wren-and-cuff-white-elk-small-foot)
 
 ## 機材
-* Guitar - Fender Japan Jazz Master
-* Pickup - Front : Fender Japan ,  Rear : JB-5
+* Guitar - Fender Japan Jazzmaster
+* Pickup - Neck: Fender Japan, Bridge: TB-5
 * Amp - Yamaha F50-112 (Speaker : CELESTION Greenback)
 * Mic - SHURE SM57 Transformer-less Mod
 * Audio Interface - Apollo 8 (Blackface)
