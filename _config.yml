@@ -40,7 +40,7 @@ voices:
     name: midori
     url: https://twitter.com/midori_aiueo
   nakano:
-    name: nakano
+    name: 中野
     url: https://twitter.com/nakanoise
   amax:
     name: amax
@@ -55,10 +55,10 @@ voices:
     name: hasisisissy
     url: https://twitter.com/hasisisissy
   path:
-    name: イシカワ
+    name: 工房path
     url: https://twitter.com/path021
   tsounds:
-    name: コイデ
+    name: tiny sounds
     url: https://twitter.com/tsoundsrepair
   mikanima:
     name: mikanima
@@ -82,16 +82,16 @@ voices:
     name: 移動教室
     url: https://twitter.com/sukubaha
   kawamata:
-    name: kawamata
+    name: mad city effects
     url: https://twitter.com/niger0mad
   satoh:
-    name: satoh
+    name: Free Fall Diver
     url: https://twitter.com/Free_Fall_Diver
   egawa:
-    name: egawa
+    name: sarapedals
     url: https://twitter.com/sarapedals
   yoshimura:
-    name: yoshimura
+    name: 吉村
     url: https://twitter.com/yoshiroudou
 
 # Build settings

@@ -11,7 +11,7 @@ voice_ids:
   - matsuda
   - path
   - tsounds
-description: こいちさん・まつだひかりさん・中野さんと、工房pathさん・tiny soundsさんの所へお邪魔してきました。エレキギターのパーツの素材や、Mustang、Jazzmaster、シムの仕込み方、Big Muffなどについて話しました。後半ではギターやBig Muffの弾き比べの様子も収録しています。
+description: こいちさん・まつだひかりさん・中野さんと、工房path イシカワさん・tiny sounds コイデさんの所へお邪魔してきました。エレキギターのパーツの素材や、Mustang、Jazzmaster、シムの仕込み方、Big Muffなどについて話しました。後半ではギターやBig Muffの弾き比べの様子も収録しています。
 duration: "00:00"
 file: /rec/20170513.mp3
 size: 71589880
