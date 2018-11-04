@@ -17,14 +17,14 @@
 			margin-bottom: 1rem;
 		}
 	}
-	
+
 	&-date {
 		@include m-font-s;
 		color: $color-sub;
 		text-align: center;
 	}
-	
-	&-description {		
+
+	&-description {
 		@include m-font-min;
 		border-left: 5px solid $color-light;
 		padding: 1rem 0 1rem 2rem;
@@ -55,7 +55,7 @@
 			@include m-flex;
 			flex-flow: row wrap;
 			list-style: none;
-			
+
 			&-item {
 				display: inline;
 				padding: .4rem;
@@ -72,7 +72,7 @@
 				transition: background 0.2s, color 0.2s;
 				background: $color-light;
 				border-radius: .25em;
-				
+
 				@media #{$small} {
 					font-size: 1.4rem;
 
@@ -96,7 +96,7 @@
 		font-family: $font-sub;
 		font-size: 2.4rem;
 		font-weight: 800;
-		margin-bottom: 3rem;
+		margin: 4rem 0 2rem;
 		text-align: center;
 		white-space: nowrap;
 		&:before, &:after {

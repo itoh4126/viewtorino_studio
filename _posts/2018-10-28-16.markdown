@@ -1,0 +1,39 @@
+---
+layout: article
+title: 第16話「エフェクタービルダーとBig Muff -Triangle編-」
+date: 2018-10-28 17:00:00 +0900
+voice_ids:
+  - ogata
+  - nakano
+  - tsounds
+  - kawamata
+  - satoh
+  - egawa
+  - yoshimura
+description: 中野さん、tiny sounds コイデさん、mad city effects カワマタさん、Free Fall Diver 佐藤さん、sarapedals 江川さん、吉村さんの7人で、Triangle Big Muff について試奏を交えながら話しました。
+duration: "00:00"
+file: /rec/20181028a.mp3
+size: 52140660
+---
+
+## 参照
+* [electro-harmonix Triangle Big Muff Pi](https://kcmusic.jp/ehx/triangle-big-muff-pi.html)
+* [sarapedals “BMT”](https://twitter.com/sarapedals/status/927186460515504128)
+* [デジマート DEEPER’S VIEW 〜経験と考察〜 第5回](https://www.digimart.net/magazine/article/2017071202662.html)
+* [こいち時間 -koichizikan-: 「光と音のRPG」](http://koichizikan.seesaa.net/article/354097162.html)
+* [Wren and Cuff / White Elk Small Foot — LEP INTERNATIONAL](https://www.lep-international.jp/home/2017/7/28/wren-and-cuff-white-elk-small-foot)
+
+## 機材
+* Guitar - Fender Japan Jazz Master
+* Pickup - Front : Fender Japan ,  Rear : JB-5
+* Amp - Yamaha F50-112 (Speaker : CELESTION Greenback)
+* Mic - SHURE SM57 Transformer-less Mod
+* Audio Interface - Apollo 8 (Blackface)
+
+## Sound
+* Clean - 3:45〜
+* Triangle Big Muff Pi (Reissue) - 5:30〜 , 50:18〜
+* Big Muff V1 2nd - 8:08〜, 49:28〜
+* sarapedals  BMT - 13:00〜, 13:30〜
+* Free Fall Driver Triangle Big Muff - 20:40〜
+* ELK Big Muff Sustainar - 41:15〜

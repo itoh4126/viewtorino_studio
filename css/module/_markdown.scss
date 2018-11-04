@@ -7,13 +7,12 @@
   }
   li {
     padding-left: .5rem;
+    line-height: 2.8;
   }
   a {
-    line-height: 2.8;
-		text-decoration: none;
-    transition: color .2s ease-in-out;
+		text-decoration: underline;
     &:hover {
-      color: $color-main;
+      text-decoration: none;
     }
 	}
 }

@@ -81,6 +81,18 @@ voices:
   idouk:
     name: 移動教室
     url: https://twitter.com/sukubaha
+  kawamata:
+    name: kawamata
+    url: https://twitter.com/niger0mad
+  satoh:
+    name: satoh
+    url: https://twitter.com/Free_Fall_Diver
+  egawa:
+    name: egawa
+    url: https://twitter.com/sarapedals
+  yoshimura:
+    name: yoshimura
+    url: https://twitter.com/yoshiroudou
 
 # Build settings
 language: ja
