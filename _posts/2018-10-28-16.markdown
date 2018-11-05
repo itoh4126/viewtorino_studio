@@ -25,7 +25,7 @@ size: 52140660
 
 ## 機材
 * Guitar - Fender Japan Jazzmaster
-* Pickup - Neck: Fender Japan, Bridge: TB-5
+* Pickup - Neck: Fender Japan, Bridge: <s>JB-5</s> TB-5
 * Amp - Yamaha F50-112 (Speaker : CELESTION Greenback)
 * Mic - SHURE SM57 Transformer-less Mod
 * Audio Interface - Apollo 8 (Blackface)
