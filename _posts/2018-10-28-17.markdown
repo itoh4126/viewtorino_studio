@@ -10,7 +10,7 @@ voice_ids:
   - satoh
   - egawa
   - yoshimura
-description: 中野さん、tiny sounds コイデさん、mad city effects カワマタさん、Free Fall Diver 佐藤さん、sarapedals 江川さん、吉村さんの7人で、Triangle Big Muff について試奏を交えながら話しました。
+description: 中野さん、tiny sounds コイデさん、mad city effects カワマタさん、Free Fall Diver 佐藤さん、sarapedals 江川さん、吉村さんの7人で、前回に引き続き Big Muff Ram's Head や OP-AMP Big Muff について試奏を交えながら話しました。
 duration: "00:00"
 file: /rec/20181028b.mp3
 size: 33863748
