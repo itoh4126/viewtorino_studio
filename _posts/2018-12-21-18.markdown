@@ -1,0 +1,22 @@
+---
+layout: article
+title: 第19話「忘年回」
+date: 2018-12-21 22:00:00 +0900
+voice_ids:
+  - ogata
+  - itoh
+description: 緒方と伊東の2人で2018年を振り返り、今年作って良かったもの・観て良かったもの・買ってよかったものについて話しました。
+duration: "00:00"
+file: /rec/20181221.mp3
+size: 63979502
+---
+
+## 参照
+* [Ikea x Virgil Abloh によるコラボレーションラグ計4種類の日本発売が決定](https://hypebeast.com/jp/2018/12/ikea-virgil-abloh-still-loading-tokyo)
+* [itoh4126 Blog](https://itoh4126.rocks)
+* [Livingroom Gear Demos](https://www.youtube.com/channel/UCRsFhOkvcFTAnup6aVMujEQ)
+* [Knobs](https://www.youtube.com/channel/UCarxZ8bKjfFzUOgN5LjYOhQ)
+* ["Pick of the Day" - 1965 Fender Jaguar and 1960s Standel Artist 33J12T / Emerald City Guitars](https://www.youtube.com/watch?v=Xc8z8Dm6FU4)
+* ["Pick of the Day" - Clive Brown Custom 1954 Esquire Relic Left-handed / Emerald City Guitars](https://www.youtube.com/watch?v=z2h1YIQ8WiI)
+* [OX | Amp Top Box - Universal Audio](https://hookup.co.jp/products/universal-audio/ox)
+* [ピック探訪記　HERCO編 | 石橋楽器 御茶ノ水本店 ブログ](https://www.ishibashi.co.jp/sale-event/12812)
