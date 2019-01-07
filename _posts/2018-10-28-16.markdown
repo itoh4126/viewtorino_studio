@@ -30,7 +30,7 @@ size: 52140660
 * Mic - SHURE SM57 Transformer-less Mod
 * Audio Interface - Apollo 8 (Blackface)
 
-## Sound
+## 演奏の部分
 * Clean - 3:45〜
 * Triangle Big Muff Pi (Reissue) - 5:30〜 , 50:18〜
 * Big Muff V1 2nd - 8:08〜, 49:28〜

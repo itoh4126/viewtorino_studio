@@ -35,7 +35,7 @@ size: 33863748
 * Mic - SHURE SM57 Transformer-less Mod
 * Audio Interface - Apollo 8 (Blackface)
 
-## Sound
+## 演奏の部分
 * Clean - 1:32〜
 * Big Muff Ram’s Head  - 2:00〜, 3:10〜, 31:41〜
 * ROZZ DEAD HEAT - 5:51〜

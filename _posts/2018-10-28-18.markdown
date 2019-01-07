@@ -36,7 +36,7 @@ size: 33066483
 * Mic - SHURE SM57 Transformer-less Mod
 * Audio Interface - Apollo 8 (Blackface)
 
-## Sound
+## 演奏の部分
 * Sovtek RED ARMY Overdrive - 2:29 , 2:53 〜
 * Sovtek Civil War - 4:17 〜, 5:51〜 , 7:27 
 * Free Fall Diver CIVIL RED - 9:57〜
