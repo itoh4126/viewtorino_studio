@@ -17,6 +17,7 @@ size: 33066483
 ---
 
 ## 参照
+* [収録に使用したBig Muff](https://twitter.com/cuddlydominion/status/1082214609468121089)
 * [Sovtek RED ARMY OverDrive](http://www.kitrae.net/music/big_muff_history2_Red_Army_Overdrive.html)
 * [Sovtek Civil War](http://www.kitrae.net/music/big_muff_history2.html#CivilWar)
 * [Free Fall Diver - Civil Red, Civil Blue, Civil Green](https://twitter.com/Free_Fall_Diver/status/811446288994607105)
@@ -37,17 +38,17 @@ size: 33066483
 * Audio Interface - Apollo 8 (Blackface)
 
 ## 演奏の部分
-* Sovtek RED ARMY Overdrive - 2:29 , 2:53 〜
-* Sovtek Civil War - 4:17 〜, 5:51〜 , 7:27 
+* Sovtek RED ARMY Overdrive - 2:29, 2:53〜
+* Sovtek Civil War - 4:17〜, 5:51〜, 7:27
 * Free Fall Diver CIVIL RED - 9:57〜
 * Free Fall Diver CIVIL BLUE - 11:23〜
 * Free Fall Diver CIVIL GREEN - 13:07〜
 * Electro-Harmonix Big Muff Pi Black Russian Bubble Font - 18:15〜
 * Electro-Harmonix Big Muff Pi Black Russian Ver 7D enclosure  (初期) - 20:15〜
 * Electro-Harmonix Big Muff Pi Black Russian Ver 8 six-screw enclosure (中期/木箱) - 21:21〜
-* Electro-Harmonix Big Muff Pi Black Russian Ver 8 four-screw enclosure (最終期) - 23:21 , 25:24〜
+* Electro-Harmonix Big Muff Pi Black Russian Ver 8 four-screw enclosure (最終期) - 23:21, 25:24〜
 * MOOER Blues Mood + Big Muff Pi Black Russian (最終期) - 30:03〜
-* 9.5v Battery (Golden Power) / Sovtek Civil War - 34:52 , 36:27〜
+* 9.5v Battery (Golden Power) / Sovtek Civil War - 34:52, 36:27〜
 * 6v Manganese Battery (EHX) / Sovtek Civil War - 35:21〜
 * DC Power Supply / Sovtek Civil War - 35:53〜
 * 9.6v Manganese Battery (Bi Classic Pro) / Sovtek Civil War - 37:13〜
