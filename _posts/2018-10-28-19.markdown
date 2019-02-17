@@ -1,0 +1,50 @@
+---
+layout: article
+title: 第19話「エフェクタービルダーとBig Muff - Big Muff系ペダル 編 -」
+date: 2018-10-28 19:00:00 +0900
+voice_ids:
+  - ogata
+  - nakano
+  - tsounds
+  - kawamata
+  - satoh
+  - egawa
+  - yoshimura
+description: 中野さん、tiny sounds コイデさん、mad city effects カワマタさん、Free Fall Diver 佐藤さん、sarapedals 江川さん、吉村さんの7人で、前回に引き続き Big Muff系ペダルについて試奏を交えながら話しました。
+duration: "00:00"
+file: /rec/20181028d.mp3
+size: 41419180
+---
+
+## 参照
+* [madcity effects - Crazy Comet](http://madcityeffects.tumblr.com/post/43996674313/madcity-effects-crazy-comet-036)
+* [Free Fall Diver - huge](https://twitter.com/Free_Fall_Diver)
+* [Free Fall Diver / C2W / Fuzz Distortion | イシバシ楽器店](https://store.ishibashi.co.jp/ec/pro/disp/1/06-601990500)
+* [Hoof Hybrid Fuzz — EarthQuaker Devices](https://www.earthquakerdevices.com/hoof/)
+* [ファズ的歪みからハイゲイン・オーバードライブへと変化したMaxonのD&S【デジマート・マガジン】](https://www.digimart.net/magazine/article/2014082000917.html)
+* [Toptone DG-1 — LEP INTERNATIONAL](https://www.lep-international.jp/home/2017/11/1/-toptone-dg-1)
+* [Phantom fx Sabbath FUZZ Russian : BamBasic Effectribe - 効果的雑想録](https://bambasic.exblog.jp/17519269/)
+* [戸高賢史氏が世に送りだした「Phantom Fx Sabbath Mk2」をレビュー！](http://www.efmaniac.com/phantom-fx-sabbath-mk2/)
+* [Mシリーズペダルボード - Line 6 Japan](https://line6.jp/products/m-series-pedalboards/)
+
+## 機材
+* Guitar - Fender Japan Jazzmaster
+* Pickup - Neck: Fender Japan, Bridge: TB-5
+* Amp - Yamaha F50-112 (Speaker : CELESTION Greenback)
+* Mic - SHURE SM57 Transformer-less Mod
+* Audio Interface - Apollo 8 (Blackface)
+
+## 演奏の部分
+* madcity effects Crazy Comet- 4:14 , 4:33 ,5:10〜
+* Free Fall Diver - huge proto V2- 12:35〜
+* Free Fall Diver huge proto V1 - 14:45〜
+* Free Fall Diver C2W - 17:00〜
+* yoshimura’s Russian Big Muff Mod - 20:42〜
+* Free Fall Diver’s Russian Big Muff Mod - 22:53〜
+* sarapedal’s  “Earth Quaker Devices Hoof” Clone- 31:10〜
+* maxon D&S - 33:10〜
+* Toptone DG-1 - 36:57〜
+* Guyatone FS-6 Sustainer - 40:38〜
+* Phantom FX Sabbath - 44:55〜
+* Phantom FX Sabbath Mk2 - 45:42〜
+* LINE6 M9 “Fuzz Pi mode” - 48:58〜
