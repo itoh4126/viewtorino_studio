@@ -1,0 +1,18 @@
+---
+layout: article
+title: 第21話「Black Russian Big Muff には需要がない」
+date: 2019-05-05 16:00:00 +0900
+voice_ids:
+  - ogata
+  - itoh
+  - egawa
+  - yoshimura
+  - yoshida
+description: sarapedals 江川さん、吉村さん、SADSUMMER 吉田さんを交えて5人で Sovtek Deluxe Big Muff について他の種類の Big Muff と弾き比べながら話しました。
+duration: "00:00"
+file: /rec/20190505.mp3
+size: 45372885
+---
+
+## 参照
+* [Sovtek Deluxe Big Muff Pi](https://kcmusic.jp/ehx/sovtek-deluxe-big-muff-pi.html)

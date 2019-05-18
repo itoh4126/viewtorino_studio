@@ -93,6 +93,9 @@ voices:
   yoshimura:
     name: 吉村
     url: https://twitter.com/yoshiroudou
+  yoshida:
+    name: 吉田
+    url: https://twitter.com/yyshidd
 
 # Build settings
 language: ja
