@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
   <channel>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <link>http://localhost:4000</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://0.0.0.0:4000</link>
     <title>vt-studio</title>
     <description>viewtorino PodCast</description>
     <media:keywords>britpop,recording,rock,dtm,software,gadget,music</media:keywords>
@@ -16,23 +16,317 @@
       <itunes:name>viewtorino</itunes:name>
       <itunes:email>admin@viewtorino.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://localhost:4000/images/artwork1.jpg" />
+    <itunes:image href="http://0.0.0.0:4000/images/artwork1.jpg" />
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
 
     
       <item>
-        <title>第0.5話 「2016年を振り返って、雑多な話」</title>
-        <link>http://localhost:4000/ep/0</link>
-        <pubDate>Wed, 28 Dec 2016 11:30:00 +0900</pubDate>
-        <description>Kensei Ogata Band レコーディング進捗・使用機材、Macbook Pro、AirPods、2016年良かった作品などについて話しました。</description>
-        <guid isPermaLink="true">http://localhost:4000/ep/0</guid>
-        <enclosure url="http://localhost:4000/rec/20161228.mp3" length="27322874" type="audio/mp3"/>
+        <title>第21話「5月のある晴れた朝に100パーセントの Big Muff に出会うことについて」</title>
+        <link>http://0.0.0.0:4000/ep/21</link>
+        <pubDate>Sun, 05 May 2019 16:00:00 +0900</pubDate>
+        <description>sarapedals 江川さん、吉村さん、SADSUMMER 吉田さんを交えて5人で Sovtek Deluxe Big Muff について他の種類の Big Muff と弾き比べながら話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/21</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20190505.mp3" length="45372885" type="audio/mp3"/>
         <itunes:author>viewtorino</itunes:author>
-        <itunes:subtitle>Kensei Ogata Band レコーディング進捗・使用機材、Macbook Pro、AirPods、2016年良かった作品などについて話しました。</itunes:subtitle>
+        <itunes:subtitle>sarapedals 江川さん、吉村さん、SADSUMMER 吉田さんを交えて5人で Sovtek Deluxe Big Muff について他の種類の Big Muff と弾き比べながら話しました。</itunes:subtitle>
         <itunes:duration>00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
-        <media:thumbnail url="http://localhost:4000/images/artwork1.jpg"/>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第20話「忘年回」</title>
+        <link>http://0.0.0.0:4000/ep/20</link>
+        <pubDate>Fri, 21 Dec 2018 22:00:00 +0900</pubDate>
+        <description>緒方と伊東の2人で2018年を振り返り、今年作って良かったもの・観て良かったもの・買ってよかったものについて話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/20</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20181221.mp3" length="63979502" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>緒方と伊東の2人で2018年を振り返り、今年作って良かったもの・観て良かったもの・買ってよかったものについて話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第19話「エフェクタービルダーとBig Muff - Big Muff系ペダル 編 -」</title>
+        <link>http://0.0.0.0:4000/ep/19</link>
+        <pubDate>Sun, 28 Oct 2018 19:00:00 +0900</pubDate>
+        <description>中野さん、tiny sounds コイデさん、mad city effects カワマタさん、Free Fall Diver 佐藤さん、sarapedals 江川さん、吉村さんの7人で、前回に引き続き Big Muff系ペダルについて試奏を交えながら話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/19</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20181028d.mp3" length="41419180" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>中野さん、tiny sounds コイデさん、mad city effects カワマタさん、Free Fall Diver 佐藤さん、sarapedals 江川さん、吉村さんの7人で、前回に引き続き Big Muff系ペダルについて試奏を交えながら話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第18話「エフェクタービルダーとBig Muff - Russian Big Muff 編 -」</title>
+        <link>http://0.0.0.0:4000/ep/18</link>
+        <pubDate>Sun, 28 Oct 2018 19:00:00 +0900</pubDate>
+        <description>中野さん、tiny sounds コイデさん、mad city effects カワマタさん、Free Fall Diver 佐藤さん、sarapedals 江川さん、吉村さんの7人で、前回に引き続き ロシア製の Big Muff について試奏を交えながら話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/18</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20181028c.mp3" length="33066483" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>中野さん、tiny sounds コイデさん、mad city effects カワマタさん、Free Fall Diver 佐藤さん、sarapedals 江川さん、吉村さんの7人で、前回に引き続き ロシア製の Big Muff について試奏を交えながら話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第17話「エフェクタービルダーとBig Muff - Ram’s Head &amp; US Muff編 -」</title>
+        <link>http://0.0.0.0:4000/ep/17</link>
+        <pubDate>Sun, 28 Oct 2018 18:00:00 +0900</pubDate>
+        <description>中野さん、tiny sounds コイデさん、mad city effects カワマタさん、Free Fall Diver 佐藤さん、sarapedals 江川さん、吉村さんの7人で、前回に引き続き Big Muff Ram's Head や OP-AMP Big Muff について試奏を交えながら話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/17</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20181028b.mp3" length="33863748" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>中野さん、tiny sounds コイデさん、mad city effects カワマタさん、Free Fall Diver 佐藤さん、sarapedals 江川さん、吉村さんの7人で、前回に引き続き Big Muff Ram's Head や OP-AMP Big Muff について試奏を交えながら話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第16話「エフェクタービルダーとBig Muff -Triangle編-」</title>
+        <link>http://0.0.0.0:4000/ep/16</link>
+        <pubDate>Sun, 28 Oct 2018 17:00:00 +0900</pubDate>
+        <description>中野さん、tiny sounds コイデさん、mad city effects カワマタさん、Free Fall Diver 佐藤さん、sarapedals 江川さん、吉村さんの7人で、Triangle Big Muff について試奏を交えながら話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/16</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20181028a.mp3" length="52140660" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>中野さん、tiny sounds コイデさん、mad city effects カワマタさん、Free Fall Diver 佐藤さん、sarapedals 江川さん、吉村さんの7人で、Triangle Big Muff について試奏を交えながら話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第15話「移動教室先生の自意識と健康の話」</title>
+        <link>http://0.0.0.0:4000/ep/15</link>
+        <pubDate>Sat, 18 Aug 2018 21:00:00 +0900</pubDate>
+        <description>移動教室先生とviewtorinoの4人で、ギターのイラストやVTuber、健康面について話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/15</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20180818.mp3" length="68663332" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>移動教室先生とviewtorinoの4人で、ギターのイラストやVTuber、健康面について話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第14話「松本文紀さんと、竹槍の話」</title>
+        <link>http://0.0.0.0:4000/ep/14</link>
+        <pubDate>Sun, 08 Jul 2018 18:00:00 +0900</pubDate>
+        <description>松本文紀さんをゲストに迎えて、素晴らしき日々や楽器作曲板、音楽制作・DTM音源などについて話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/14</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20180708.mp3" length="79159178" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>松本文紀さんをゲストに迎えて、素晴らしき日々や楽器作曲板、音楽制作・DTM音源などについて話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第13話「Featuring Birds」</title>
+        <link>http://0.0.0.0:4000/ep/13</link>
+        <pubDate>Sun, 17 Jun 2018 19:00:00 +0900</pubDate>
+        <description>hasisisissyさんを交えて3人で、リズと青い鳥について話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/13</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20180617.mp3" length="49975177" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>hasisisissyさんを交えて3人で、リズと青い鳥について話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第12話「中村兄弟と、パワーポップの話」</title>
+        <link>http://0.0.0.0:4000/ep/12</link>
+        <pubDate>Fri, 11 May 2018 22:00:00 +0900</pubDate>
+        <description>Kensei Ogata 新作完成間近ということで、Recメンバーの kyosuke nakamura と shuntaro nakamura を交えて新作の制作秘話や最近良かった曲・漫画に関して話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/12</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20180511.mp3" length="64887124" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>Kensei Ogata 新作完成間近ということで、Recメンバーの kyosuke nakamura と shuntaro nakamura を交えて新作の制作秘話や最近良かった曲・漫画に関して話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第11話「夏海さん&amp;前田さんと、MV制作の話」</title>
+        <link>http://0.0.0.0:4000/ep/11</link>
+        <pubDate>Tue, 17 Apr 2018 20:00:00 +0900</pubDate>
+        <description>Kensei Ogata 新曲「Someone Will Love You」公開につき、MV制作について話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/11</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20180417.mp3" length="32358794" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>Kensei Ogata 新曲「Someone Will Love You」公開につき、MV制作について話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第10話「Someone Will Love You」</title>
+        <link>http://0.0.0.0:4000/ep/10</link>
+        <pubDate>Sat, 14 Apr 2018 14:00:00 +0900</pubDate>
+        <description>Kensei Ogata 新曲「Someone Will Love You」MV公開につき、録音や歌詞の書き方などを話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/10</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20180414.mp3" length="20966664" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>Kensei Ogata 新曲「Someone Will Love You」MV公開につき、録音や歌詞の書き方などを話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第9話「☆☆☆」</title>
+        <link>http://0.0.0.0:4000/ep/9</link>
+        <pubDate>Sun, 04 Mar 2018 21:00:00 +0900</pubDate>
+        <description>mikanimaとアニメや聖地巡礼について話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/9</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20180304.mp3" length="31341730" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>mikanimaとアニメや聖地巡礼について話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第8話「Definition of Britpop」</title>
+        <link>http://0.0.0.0:4000/ep/8</link>
+        <pubDate>Sun, 06 Aug 2017 16:00:00 +0900</pubDate>
+        <description>Niwaさんを交えて3人で、oasis、天使の3P！、プリンセス・プリンシパル、ブリットポップなどについて話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/8</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20170806.mp3" length="42249812" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>Niwaさんを交えて3人で、oasis、天使の3P！、プリンセス・プリンシパル、ブリットポップなどについて話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第7話「工房path &amp; tiny sounds にて」</title>
+        <link>http://0.0.0.0:4000/ep/7</link>
+        <pubDate>Sat, 13 May 2017 15:00:00 +0900</pubDate>
+        <description>こいちさん・まつだひかりさん・中野さんと、工房path イシカワさん・tiny sounds コイデさんの所へお邪魔してきました。エレキギターのパーツの素材や、Mustang、Jazzmaster、シムの仕込み方、Big Muffなどについて話しました。後半ではギターやBig Muffの弾き比べの様子も収録しています。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/7</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20170513.mp3" length="71589880" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>こいちさん・まつだひかりさん・中野さんと、工房path イシカワさん・tiny sounds コイデさんの所へお邪魔してきました。エレキギターのパーツの素材や、Mustang、Jazzmaster、シムの仕込み方、Big Muffなどについて話しました。後半ではギターやBig Muffの弾き比べの様子も収録しています。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第6話「hasisisissyさんと、コミティアの話」</title>
+        <link>http://0.0.0.0:4000/ep/6</link>
+        <pubDate>Thu, 04 May 2017 15:00:00 +0900</pubDate>
+        <description>hasisisissyさんと中野さんをゲストに迎えて、コミティア、中村一義、P.A.WORKS、作業環境、ガルパン、登山などについて話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/6</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20170504.mp3" length="38140192" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>hasisisissyさんと中野さんをゲストに迎えて、コミティア、中村一義、P.A.WORKS、作業環境、ガルパン、登山などについて話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第5話 「若原・スペンサー・英梨々」</title>
+        <link>http://0.0.0.0:4000/ep/5</link>
+        <pubDate>Sun, 02 Apr 2017 22:00:00 +0900</pubDate>
+        <description>wkhrを交えて3人で、エイプリルフール、百合展、冴えない彼女の育てかたなどについて話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/5</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20170402.mp3" length="22846642" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>wkhrを交えて3人で、エイプリルフール、百合展、冴えない彼女の育てかたなどについて話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第4話 「まつだひかりさん&amp;こいちさんと、新年会（後編）」</title>
+        <link>http://0.0.0.0:4000/ep/4</link>
+        <pubDate>Sat, 04 Mar 2017 16:00:00 +0900</pubDate>
+        <description>前回収録の後、ナカノイズの中野さん・まつだひかりさん・こいちさんと、好きなBOSSコンパクトエフェクター、小林さんちのメイドラゴン、ギター警察、自作7弦ジャガー、サウンドハウスの実店舗、クリックは友達、イラスト制作などについて話しました。今回は中野さんのご好意により素敵なプレゼントがありますのでその辺りもチェックしていただければ幸いです。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/4</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20170304b.mp3" length="46489371" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>前回収録の後、ナカノイズの中野さん・まつだひかりさん・こいちさんと、好きなBOSSコンパクトエフェクター、小林さんちのメイドラゴン、ギター警察、自作7弦ジャガー、サウンドハウスの実店舗、クリックは友達、イラスト制作などについて話しました。今回は中野さんのご好意により素敵なプレゼントがありますのでその辺りもチェックしていただければ幸いです。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第3話 「nakanoiseの皆さんと、新年会」</title>
+        <link>http://0.0.0.0:4000/ep/3</link>
+        <pubDate>Sat, 04 Mar 2017 15:00:00 +0900</pubDate>
+        <description>昨年ライブで共演したナカノイズの中野さん・まつだひかりさん・amaxさん・こいちさんをゲストに迎えて、最近買った機材、八の字巻き、JAZZMASTER、最初に買ったギター、Eric Johnsonの風水などについて話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/3</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20170304.mp3" length="33206916" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>昨年ライブで共演したナカノイズの中野さん・まつだひかりさん・amaxさん・こいちさんをゲストに迎えて、最近買った機材、八の字巻き、JAZZMASTER、最初に買ったギター、Eric Johnsonの風水などについて話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第2話 「中野さんと、ギターを泣かせる話」</title>
+        <link>http://0.0.0.0:4000/ep/2</link>
+        <pubDate>Sun, 05 Feb 2017 16:00:00 +0900</pubDate>
+        <description>ナカノイズの中野さんをゲストに迎えて、Shureの偽物を掴まされた件、Big Muff、今買いたいギター、シンプルライフ、Supersonic、フリップフラッパーズ、ワンダーパーラーカフェ、やがて君になる、FLOWERSなどについて話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/2</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20170205.mp3" length="44134825" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>ナカノイズの中野さんをゲストに迎えて、Shureの偽物を掴まされた件、Big Muff、今買いたいギター、シンプルライフ、Supersonic、フリップフラッパーズ、ワンダーパーラーカフェ、やがて君になる、FLOWERSなどについて話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第1話 「midoriさんを迎えて、2017年の話」</title>
+        <link>http://0.0.0.0:4000/ep/1</link>
+        <pubDate>Sun, 15 Jan 2017 11:00:00 +0900</pubDate>
+        <description>2017年の抱負、Podcast を始めた動機、1~2月の Kensei Ogata Band ライブ事情、リトルウィッチアカデミアなどについて話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/1</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20170115.mp3" length="20294440" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>2017年の抱負、Podcast を始めた動機、1~2月の Kensei Ogata Band ライブ事情、リトルウィッチアカデミアなどについて話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
+      </item>
+    
+      <item>
+        <title>第0.5話 「2016年を振り返って、雑多な話」</title>
+        <link>http://0.0.0.0:4000/ep/0</link>
+        <pubDate>Wed, 28 Dec 2016 11:30:00 +0900</pubDate>
+        <description>Kensei Ogata Band レコーディング進捗・機材、Macbook Pro、AirPods、2016年良かった作品などについて話しました。</description>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ep/0</guid>
+        <enclosure url="http://0.0.0.0:4000/rec/20161228.mp3" length="27322874" type="audio/mp3"/>
+        <itunes:author>viewtorino</itunes:author>
+        <itunes:subtitle>Kensei Ogata Band レコーディング進捗・機材、Macbook Pro、AirPods、2016年良かった作品などについて話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://0.0.0.0:4000/images/artwork1.jpg"/>
       </item>
     
 
