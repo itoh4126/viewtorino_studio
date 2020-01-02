@@ -38,13 +38,15 @@
 	&-rec {
 		.rec-file {
 			display: inline-block;
+			margin-top: 8px;
 			float: right;
+			font-size: 1.4rem;
 			@include m-link;
 		}
 		.rec-file:before {
 			content: "\f019";
 			font-family: FontAwesome;
-			padding-right: 5px;
+			padding-right: 4px;
 		}
 		@include m-cf;
 	}

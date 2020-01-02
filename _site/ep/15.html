@@ -18,7 +18,6 @@
 
   <link rel="alternate" type="application/rss+xml" href="http://0.0.0.0:4000/feed.xml" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/2.23.4/mediaelementplayer.min.css">
   <link rel="stylesheet" href="http://0.0.0.0:4000/css/theme.css">
 
 </head>
@@ -114,7 +113,7 @@
 
 
     <main role="main">
-    
+
       <div class="container">
 
         <article class="article-content">
@@ -133,14 +132,12 @@
 
           <div class="content-item article-content-rec">
             <audio
-                class="mejs-player"
-                width="100%"
-                data-mejsoptions='{"alwaysShowControls": true, "alwaysShowHours": true, "enableAutosize": true, "features": ["playpause", "progress", "current", "duration", "volume"]}'
-                preload="auto"
-                src="/rec/20180818.mp3"
-            >
+              controls
+              src="/rec/20180818.mp3">
+              Your browser does not support the
+              <code>audio</code> element.
             </audio>
-            <a class="rec-file" href="/rec/20180818.mp3">Download</a>
+            <a class="rec-file" href="/rec/20180818.mp3" target="_blank">Download</a>
           </div>
 
           <div class="content-item article-content-voices">
@@ -179,16 +176,18 @@
           </div>
 
           <div class="content-item article-content-md">
-            <h2 id="参照">参照</h2>
+            
+              <h2 id="参照">参照</h2>
 
 <ul>
-  <li><a href="https://www.pixiv.net/member.php?id=11483557">「移動教室」のプロフィール [pixiv]</a></li>
-  <li><a href="https://twitter.com/sukubaha/status/1020994073304346624">移動教室 - 最近の作品1</a></li>
-  <li><a href="https://twitter.com/sukubaha/status/1018461963486052353">移動教室 - 最近の作品2</a></li>
-  <li><a href="http://viewtorino.com/viewpoint/#member">viewtorino - viewpoint（旧HPのヘッダー画像）</a></li>
-  <li><a href="https://www.vitantonio.jp/products/kitchen-goods/VYG-11.html">vitantonio - ヨーグルトメーカー VYG-11</a></li>
+  <li><a target="_blank" href="https://www.pixiv.net/member.php?id=11483557">「移動教室」のプロフィール [pixiv]</a></li>
+  <li><a target="_blank" href="https://twitter.com/sukubaha/status/1020994073304346624">移動教室 - 最近の作品1</a></li>
+  <li><a target="_blank" href="https://twitter.com/sukubaha/status/1018461963486052353">移動教室 - 最近の作品2</a></li>
+  <li><a target="_blank" href="http://viewtorino.com/viewpoint/#member">viewtorino - viewpoint（旧HPのヘッダー画像）</a></li>
+  <li><a target="_blank" href="https://www.vitantonio.jp/products/kitchen-goods/VYG-11.html">vitantonio - ヨーグルトメーカー VYG-11</a></li>
 </ul>
 
+            
           </div>
 
           <div class="page-back">
@@ -238,7 +237,6 @@
   </div>
 </footer>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

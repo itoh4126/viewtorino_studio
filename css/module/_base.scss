@@ -104,19 +104,21 @@ main {
 	text-align: center;
 	a {
 		@include m-font-s;
-		color: #000;
 		display: inline-block;
+		padding: 6px 16px;
+		background: $color-text;
+		color: $color-bg;
 		border: 1px solid $color-text;
-		font-weight: 500;
-		padding: 2px 20px;
-		border-radius: 20px;
+		font-weight: 600;
+		border-radius: 4px;
 		transition: all .2s ease-in-out;
 		@media #{$small} {
 			font-size: 1.6rem;
 		}
 		&:hover {
-			background: $color-text;
-			color: $color-bg;
+			background: $color-bg;
+			border: 1px solid $color-text;
+			color: #0E151C;
 		}
 	}
 	a:before {

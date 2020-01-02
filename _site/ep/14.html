@@ -18,7 +18,6 @@
 
   <link rel="alternate" type="application/rss+xml" href="http://0.0.0.0:4000/feed.xml" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/2.23.4/mediaelementplayer.min.css">
   <link rel="stylesheet" href="http://0.0.0.0:4000/css/theme.css">
 
 </head>
@@ -114,7 +113,7 @@
 
 
     <main role="main">
-    
+
       <div class="container">
 
         <article class="article-content">
@@ -133,14 +132,12 @@
 
           <div class="content-item article-content-rec">
             <audio
-                class="mejs-player"
-                width="100%"
-                data-mejsoptions='{"alwaysShowControls": true, "alwaysShowHours": true, "enableAutosize": true, "features": ["playpause", "progress", "current", "duration", "volume"]}'
-                preload="auto"
-                src="/rec/20180708.mp3"
-            >
+              controls
+              src="/rec/20180708.mp3">
+              Your browser does not support the
+              <code>audio</code> element.
             </audio>
-            <a class="rec-file" href="/rec/20180708.mp3">Download</a>
+            <a class="rec-file" href="/rec/20180708.mp3" target="_blank">Download</a>
           </div>
 
           <div class="content-item article-content-voices">
@@ -172,20 +169,22 @@
           </div>
 
           <div class="content-item article-content-md">
-            <h2 id="参照">参照</h2>
+            
+              <h2 id="参照">参照</h2>
 
 <ul>
-  <li><a href="https://www3.atwiki.jp/yayoi841/">NUMBER GIRL　ZAZEN BOYSの音について語るスレ　まとめサイト</a></li>
-  <li><a href="http://room841.jugem.jp/">ROOM841</a></li>
-  <li><a href="https://h-resolution.com/product/hollywood-orchestra">Hollywood Orchestra - EastWest</a></li>
-  <li><a href="https://www.pixiv.net/fanbox/creator/3687670">Kensei Ogata - pixivFANBOX</a></li>
-  <li><a href="https://www.keromakura.net/">素晴らしき日々～不連続存在～ フルボイスHD版</a></li>
-  <li><a href="http://jabberwocksounds.tumblr.com/post/27559140714/07-20-2012-1999">素晴らしき日々 コンピレーションアルバム</a></li>
-  <li><a href="http://grisaia-pt.com/">グリザイア ファントムトリガー｜Frontwing</a></li>
-  <li><a href="https://www.native-instruments.com/jp/products/komplete/keys/alicias-keys/">Alicia’s Keys - Native Instruments</a></li>
-  <li><a href="https://twitter.com/a_Jaggy_Snake/status/1005395318886707200">noma＠一日目西ひ20aさんのツイート: “C94スペース頂けました。配置は「金曜日　西地区“ひ”ブロック－20a」になります。オリジナル楽曲を制作予定です。よろしくお願い致します… “</a></li>
+  <li><a target="_blank" href="https://www3.atwiki.jp/yayoi841/">NUMBER GIRL　ZAZEN BOYSの音について語るスレ　まとめサイト</a></li>
+  <li><a target="_blank" href="http://room841.jugem.jp/">ROOM841</a></li>
+  <li><a target="_blank" href="https://h-resolution.com/product/hollywood-orchestra">Hollywood Orchestra - EastWest</a></li>
+  <li><a target="_blank" href="https://www.pixiv.net/fanbox/creator/3687670">Kensei Ogata - pixivFANBOX</a></li>
+  <li><a target="_blank" href="https://www.keromakura.net/">素晴らしき日々～不連続存在～ フルボイスHD版</a></li>
+  <li><a target="_blank" href="http://jabberwocksounds.tumblr.com/post/27559140714/07-20-2012-1999">素晴らしき日々 コンピレーションアルバム</a></li>
+  <li><a target="_blank" href="http://grisaia-pt.com/">グリザイア ファントムトリガー｜Frontwing</a></li>
+  <li><a target="_blank" href="https://www.native-instruments.com/jp/products/komplete/keys/alicias-keys/">Alicia’s Keys - Native Instruments</a></li>
+  <li><a target="_blank" href="https://twitter.com/a_Jaggy_Snake/status/1005395318886707200">noma＠一日目西ひ20aさんのツイート: “C94スペース頂けました。配置は「金曜日　西地区“ひ”ブロック－20a」になります。オリジナル楽曲を制作予定です。よろしくお願い致します… “</a></li>
 </ul>
 
+            
           </div>
 
           <div class="page-back">
@@ -235,7 +234,6 @@
   </div>
 </footer>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
