@@ -51,7 +51,7 @@ footer {
 			display: block;
 			content: '';
 			width: 80px;
-			height: 5px;
+			height: 2px;
 			margin: 1rem auto 0.5rem;
 			background: $color-bg;
 		}
@@ -83,12 +83,12 @@ footer {
 					color: #fff;
 				}
 			}
-      .feed-list-item	.btn-android {
-        @include m-btn-android;
-        border: 1px solid $color-android;
-        color: $color-android;
+      .feed-list-item	.btn-spotify {
+        @include m-btn-spotify;
+        border: 1px solid $color-spotify;
+        color: $color-spotify;
         &:hover {
-          background: $color-android;
+          background: $color-spotify;
           color: #fff;
         }
       }

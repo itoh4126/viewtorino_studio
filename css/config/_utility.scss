@@ -41,9 +41,9 @@
 	}
 }
 
-@mixin m-btn-android {
+@mixin m-btn-spotify {
   &:before {
-    content: "\f17b";
+    content: "\f1bc";
     font-family: FontAwesome;
     margin-right: 0.5rem;
   }
